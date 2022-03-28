@@ -30,8 +30,7 @@ experience:
     date_start: '2019-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
+
         * Screened questionnaires to identify outliers
         * Created EpiData (a handy tool for data input) templates
         * Data analysis (conducted meta-analysis, EFA, CFA, multi-group mediation analysis using R; will learn LGM and MLM soon)
@@ -39,14 +38,18 @@ experience:
         * Translated documents (e.g., scale items localization)
         * Participated in scale development (discussed semantic meanings of items with advisor and lab members; collected data for primary analysis)
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Teaching Assistant
+    company: The Chinese University of Hong Kong, Shenzhen
+    company_url: 'https://www.cuhk.edu.cn/en'
+    company_logo: cuhksz
+    location: Shenzhen, China
+    date_start: '2020-01-01'
+    date_end: '2021-05-31'
+    description: |2-
+
+        * Taught operations of SPSS
+        * Prepared answers and rubrics for assignments and exams
+        * Graded assignments and exams
 
 design:
   columns: '2'

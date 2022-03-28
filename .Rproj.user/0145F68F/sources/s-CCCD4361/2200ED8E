@@ -1,26 +1,26 @@
 {
-    "id": "E98AD02E",
-    "path": "D:/personal website/ctx/content/authors/admin/_index.md",
-    "project_path": "content/authors/admin/_index.md",
-    "type": "markdown",
+    "id": "2200ED8E",
+    "path": "D:/personal website/cuitianxiang/config.yaml",
+    "project_path": null,
+    "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1648472115758.0,
+    "created": 1648474290470.0,
     "source_on_save": false,
     "relative_order": 9,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "76,265",
-        "scrollLine": "63"
+        "cursorPosition": "21,109",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648474598,
+    "lastKnownWriteTime": 1648443984,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648474599005,
+    "last_content_update": 1648443984,
     "read_only": false,
     "read_only_alternatives": []
 }

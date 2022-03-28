@@ -3,15 +3,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Psychology
+    institution: [University of Macau](https://www.um.edu.mo/)
+    year: 2022-
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 2019-2021
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2015-2019
 email: ""
 highlight_name: true
 interests:

@@ -3,7 +3,7 @@
     "path": "D:/personal website/ctx/content/authors/admin/_index.md",
     "project_path": "content/authors/admin/_index.md",
     "type": "markdown",
-    "hash": "3917950520",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1648448697726.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,7",
+        "cursorPosition": "20,14",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648449326,
+    "lastKnownWriteTime": 1648450179,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648449326797,
+    "last_content_update": 1648450179060,
     "read_only": false,
     "read_only_alternatives": []
 }

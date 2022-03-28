@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: tianxiangcui@link.cuhk.edu.cn
+# email: tianxiangcui@link.cuhk.edu.cn
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -37,7 +37,7 @@ email: tianxiangcui@link.cuhk.edu.cn
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
+# contact_links:
   # - icon: twitter
   #   icon_pack: fab
   #   name: DM Me
@@ -50,10 +50,10 @@ contact_links:
   #   icon_pack: fab
   #   name: Chat on Keybase
   #   link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 

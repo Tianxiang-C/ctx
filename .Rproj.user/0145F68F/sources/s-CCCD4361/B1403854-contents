@@ -31,12 +31,12 @@ experience:
     date_end: ''
     description: |2-
 
-        * Screened questionnaires to identify outliers
-        * Created EpiData (a handy tool for data input) templates
-        * Data analysis (conducted meta-analysis, EFA, CFA, multi-group mediation analysis using R; will learn LGM and MLM soon)
-        * Helped review and revise undergraduates' manuscripts and advisors' Research Grant Application Forms
-        * Translated documents (e.g., scale items localization)
-        * Participated in scale development (discussed semantic meanings of items with advisor and lab members; collected data for primary analysis)
+        * Screened questionnaires to identify outliers.
+        * Created EpiData (a handy tool for data input) templates.
+        * Data analysis (conducted meta-analysis, EFA, CFA, multi-group mediation analysis using R; will learn LGM and MLM soon).
+        * Helped review and revise undergraduates' manuscripts and advisors' Research Grant Application Forms.
+        * Translated documents (e.g., scale items localization).
+        * Participated in scale development (discussed semantic meanings of items with advisor and lab members; collected data for primary analysis).
         
   - title: Teaching Assistant for HSS1009 [Mathematics (Humanities and Social Sciences)]
     company: The Chinese University of Hong Kong, Shenzhen
@@ -47,9 +47,9 @@ experience:
     date_end: '2021-05-31'
     description: |2-
 
-        * Taught operations of SPSS
-        * Prepared answers and rubrics for assignments and exams
-        * Graded assignments and exams
+        * Taught operations of SPSS.
+        * Prepared answers and rubrics for assignments and exams.
+        * Graded assignments and exams.
         
   - title: Research Assistant
     company: Department of Education, University of Oxford
@@ -61,6 +61,19 @@ experience:
     description: |2-
 
         * Participated in child assessment in kindergartens in Shenzhen with other members of the project (*Project: Exploring Teacher Instruction and Children's Learning in Chinese Kindergartens; Primary researcher: [HUANG Runke](http://www.education.ox.ac.uk/people/runke-huang/)*).
+  
+  - title: Teaching Assistant
+    company: Shenzhen Weining Dyslexia Education Center
+    company_url: 'http://www.weiningdys.com/'
+    company_logo: weining
+    location: Shenzhen, China
+    date_start: '2020-09-01'
+    date_end: '2020-11-01'
+    description: |2-
+
+        * Interacted with students in class.
+        * Made record for each class and each student (e.g., initiative, behaviors, languages, emotions in the classroom; level of mastery of the content of the previous lesson) for future assessment.
+        * Prepared teaching materials (e.g., word cards for teaching) before class.
 
 design:
   columns: '2'

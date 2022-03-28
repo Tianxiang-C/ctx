@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: The Chinese University of Hong Kong, Shenzhen
+  url: https://www.cuhk.edu.cn/en
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,8 +45,6 @@ superuser: true
 title: CUI Tianxiang (崔天祥)
 ---
 
-Welcome to my website! I am CUI Tianxiang, a research assistant in applied psychology under the supervision of Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interest focuses on using quantitative methods to explore body image related topics.
-
-I will be joining [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) in August 2022 for my PhD study.
+Welcome to my website! I am CUI Tianxiang, a research assistant in applied psychology under the supervision of Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I will be joining [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) in August 2022 for my PhD study.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

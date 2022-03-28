@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/CUI-Tianxiang-CV-2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am CUI Tianxiang, a research assistant in applied psychology under the supervision of Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interest focuses on using quantitative methods to explore body image related topics.
-
-I will be joining [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) in August 2022 for my PhD study.
+I am CUI Tianxiang, a research assistant in applied psychology under the supervision of Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I will be joining [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) in August 2022 for my PhD study.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CUI-Tianxiang-CV-2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

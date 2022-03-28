@@ -1,26 +1,26 @@
 {
-    "id": "FC5BE0ED",
-    "path": "D:/personal website/ctx/content/home/skills.md",
-    "project_path": "content/home/skills.md",
+    "id": "41A8733D",
+    "path": "D:/personal website/ctx/content/home/about.md",
+    "project_path": "content/home/about.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1648450677662.0,
+    "created": 1648471489421.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "34,18",
-        "scrollLine": "19"
+        "cursorPosition": "16,21",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648469701,
+    "lastKnownWriteTime": 1648445853,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648469701387,
+    "last_content_update": 1648445853,
     "read_only": false,
     "read_only_alternatives": []
 }

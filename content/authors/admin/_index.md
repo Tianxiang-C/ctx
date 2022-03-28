@@ -74,4 +74,4 @@ I am CUI Tianxiang, a research assistant in applied psychology under the supervi
 
 I will be joining [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) in August 2022 for my PhD study.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CUI-Tianxiang-CV-2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

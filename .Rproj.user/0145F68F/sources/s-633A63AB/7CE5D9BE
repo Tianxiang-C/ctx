@@ -3,7 +3,7 @@
     "path": "D:/personal website/ctx/config/_default/config.yaml",
     "project_path": "config/_default/config.yaml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "140158375",
     "contents": "",
     "dirty": false,
     "created": 1648446046519.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,29",
+        "cursorPosition": "7,36",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648445854,
+    "lastKnownWriteTime": 1648447156,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648445854,
+    "last_content_update": 1648447156562,
     "read_only": false,
     "read_only_alternatives": []
 }

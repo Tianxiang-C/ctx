@@ -72,3 +72,5 @@ highlight_name: true
 
 I am CUI Tianxiang, a research assistant in applied psychology under the supervision of Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I will be joining [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) in August 2022 for my PhD study.
 
+I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020. One of the accomplishments was the translation (English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which may appear on Chinese e-commerce platforms in 2023 (I have been a fan of Pokémon since primary school).
+

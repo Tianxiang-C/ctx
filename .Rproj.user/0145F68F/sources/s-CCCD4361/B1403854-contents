@@ -38,7 +38,7 @@ experience:
         * Translated documents (e.g., scale items localization)
         * Participated in scale development (discussed semantic meanings of items with advisor and lab members; collected data for primary analysis)
         
-  - title: Teaching Assistant
+  - title: Teaching Assistant for HSS1009 [Mathematics (Humanities and Social Sciences)]
     company: The Chinese University of Hong Kong, Shenzhen
     company_url: 'https://www.cuhk.edu.cn/en'
     company_logo: cuhksz
@@ -50,6 +50,17 @@ experience:
         * Taught operations of SPSS
         * Prepared answers and rubrics for assignments and exams
         * Graded assignments and exams
+        
+  - title: Research Assistant
+    company: Department of Education, University of Oxford
+    company_url: 'http://www.education.ox.ac.uk/'
+    company_logo: ox
+    location: Shenzhen, China
+    date_start: '2020-10-01'
+    date_end: '2020-11-01'
+    description: |2-
+
+        * Participated in child assessment in kindergartens in Shenzhen with other members of the project (*Project: Exploring Teacher Instruction and Children's Learning in Chinese Kindergartens; Primary researcher: [HUANG Runke](http://www.education.ox.ac.uk/people/runke-huang/)*).
 
 design:
   columns: '2'

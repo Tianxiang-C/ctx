@@ -76,5 +76,5 @@ I also served as a part-time translator at [Chengdu Language Bridge Translation 
 
 In my leisure time, I like reading, practicing calligraphy, listening to or playing music, etc. You may visit my [Bilibili](https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0) homepage to know more about my interests.
 
-**This is not yet the final version of the website. Please refer to my [CV](https://cuitx.netlify.app/uploads/CUI-Tianxiang-CV-2022.pdf) for more information**
+**This is not yet the final version of the website. Please refer to my [CV](https://cuitx.netlify.app/uploads/CUI-Tianxiang-CV-2022.pdf) for more information.**
 

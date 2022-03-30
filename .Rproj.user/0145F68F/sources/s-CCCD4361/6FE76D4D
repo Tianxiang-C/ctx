@@ -3,7 +3,7 @@
     "path": "D:/personal website/ctx/content/home/skills.md",
     "project_path": "content/home/skills.md",
     "type": "markdown",
-    "hash": "934356395",
+    "hash": "382057637",
     "contents": "",
     "dirty": false,
     "created": 1648520514466.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,82",
-        "scrollLine": "8"
+        "cursorPosition": "22,43",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648520661,
+    "lastKnownWriteTime": 1648600977,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648520661607,
+    "last_content_update": 1648600977151,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -27,8 +27,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The effect size was marginally significant but small. Body Mass Index was found to significantly contribute to the heterogeneity of effect sizes, with larger positive effects of music on food intake for individuals with higher BMI.
 tags:
 - Source Themes
 title: "The Relationship between Music and Food Intake: A Systematic Review and Meta-Analysis"

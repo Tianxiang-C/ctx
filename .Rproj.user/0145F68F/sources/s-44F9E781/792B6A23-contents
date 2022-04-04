@@ -1,5 +1,8 @@
 ---
-abstract: 
+abstract: "Food intake has been shown to be related to several environmental factors including the presence of music. However, previous findings of the relationship between music and food intake are inconsistent. In the present study, a systematic review and meta-analysis was conducted to quantitatively review the extent to which music is associated with food intake as well as to investigate potential moderators that might have contributed to the heterogeneity of the existing findings. Literature was searched on four databases (i.e., PsycINFO, Web of Science, PubMed, and ProQuest Dissertations and Theses) and Google Scholar. Nine articles published from 1989 to 2020 met our inclusion criteria. A meta-analysis was carried out via a three-level random-effects model. The overall effect size (i.e., Hedges’ *g*) was 0.19 (95% Confidence Interval: −0.003, 0.386; *SE* = 0.10, *t* = 1.99, *p* = 0.054), indicating a marginally significant but small effect size. Body Mass Index (*F*(1, 21) = 5.11, *p* = 0.035) was found to significantly contribute to the heterogeneity of effect sizes, with larger positive effects of music on food intake for individuals with higher BMI. However, music-related features did not significantly moderate the relationship between music and food intake. More experimental studies are needed to update the current meta-analysis and get a better understanding of this topic.
+
+
+*Keywords:*  music, food intake, body mass index, meta-analysis, systematic review"
 # author_notes:
 # - Equal contribution
 # - Equal contribution
@@ -9,7 +12,7 @@ authors:
 - Chanyuan Tang 
 - Jianwen Song 
 - Jinbo He 
-- Anna Brytek-Matera 
+- and Anna Brytek-Matera 
 date: "2021-07-01T00:00:00Z"
 doi: "10.3390/nu13082571"
 featured: true
@@ -23,15 +26,16 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: The Relationship between Music and Food Intake :"" A Systematic Review and Meta-Analysis
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+title: "The Relationship between Music and Food Intake: A Systematic Review and Meta-Analysis"
+
+url_code:
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/2072-6643/13/8/2571/pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -39,12 +43,4 @@ url_source: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

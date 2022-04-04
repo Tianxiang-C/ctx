@@ -7,7 +7,7 @@ authors:
 - admin
 - Jiaxuan Xi
 - and Jinbo He
-date: "2021-10-08T00:00:00Z"
+date: "2021-11-08T00:00:00Z"
 doi: ""
 featured: false
 
@@ -16,7 +16,7 @@ publication: In *The 3rd Annual Academic Conference of Music Psychology Committe
 publication_short:
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 slides: 
 summary:
 tags:

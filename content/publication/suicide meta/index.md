@@ -34,7 +34,7 @@ authors:
 - Chanyuan Tang
 - Jianwen Song
 - Todd Jackson
-- and Jinbo He
+- Jinbo He
 date: "2022-01-30T00:00:00Z"
 doi: ""
 featured: false

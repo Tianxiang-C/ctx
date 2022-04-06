@@ -131,7 +131,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'cuitx'
     show_count: true
   commento:
     url: ''

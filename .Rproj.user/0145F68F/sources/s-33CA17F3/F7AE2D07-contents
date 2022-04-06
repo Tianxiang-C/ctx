@@ -1,6 +1,0 @@
-{{ $page := .root }}
-{{ $section := .page }}
-
-<h2>{{$section.Title}}</h2>
-
-<p><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=me2DCXwi_6hxFxsDPEwBkGw0jk2h8yQA-dMDdYPMn4M'></script></p>

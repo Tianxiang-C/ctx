@@ -57,7 +57,7 @@ M1.  Liu, Y.<sup>#</sup>, **Cui, T.<sup>#</sup>**, Wang, Q., Yu, Y.,& He, J.\* (
 
 - Research assistant, "The longitudinal causal relationships between appetitive traits and overweight/obesity among children and adolescents in Shenzhen (No. YBFZ20058)" Educational 13th Five-Year plan of Shenzhen, ￥20,000, 2020-2022. (Principal Investigator: HE Jinbo, The Chinese University of Hong Kong, Shenzhen)
 
-#### EMPLOYMENT & INTERNSHIP EXPERIENCES
+#### EMPLOYMENT & INTERNSHIP EXPERIENCE
 **[Sci-cream (SCIentific and Creative Research on Eating, Appetite and Media) Lab](https://myweb.cuhk.edu.cn/hejinbo/Home/MediaReport) (Part Time)**
 -Research Assistant (*Supervisor: Prof. HE Jinbo*; 2019.10-2022.8)
 

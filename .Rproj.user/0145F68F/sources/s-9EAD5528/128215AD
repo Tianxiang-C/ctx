@@ -1,26 +1,26 @@
 {
-    "id": "C87DFA69",
-    "path": "D:/personal website/ctx/content/home/publications.md",
-    "project_path": "content/home/publications.md",
+    "id": "128215AD",
+    "path": "D:/personal website/ctx/content/publication/MBIS/index.md",
+    "project_path": "content/publication/MBIS/index.md",
     "type": "markdown",
-    "hash": "743549910",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1649235411722.0,
+    "created": 1649306202250.0,
     "source_on_save": false,
     "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "27,10",
-        "scrollLine": "12"
+        "cursorPosition": "25,14",
+        "scrollLine": "11"
     },
     "folds": "",
-    "lastKnownWriteTime": 1649235673,
+    "lastKnownWriteTime": 1649306887,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1649235673630,
+    "last_content_update": 1649306887937,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -6,7 +6,7 @@ title: Tianxiang Cui CV
      <h2>CUI Tianxiang</h2>
  </center>
  <center>
-     <h6>tianxiangcui@link.cuhk.edu.cn</h6>
+     <h6><a href="mailto:tianxiangcui@link.cuhk.edu.cn">[Email]</a> <a href="https://cuitx.netlify.app/">[Homepage]</a> <a href="https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en&inst=17164888368768973094">[Google Scholar]</a> <a href="https://orcid.org/0000-0003-2826-1109">[ORCID]</a> <a href="https://www.researchgate.net/profile/Tianxiang-Cui-3">[ResearchGate]</a></h6>
  </center>
 
 #### EDUCATION

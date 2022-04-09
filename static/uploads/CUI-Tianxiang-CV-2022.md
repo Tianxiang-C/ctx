@@ -33,7 +33,7 @@ J1.  **Cui, T.**, Xi, J., Tang, C., Song, J., He, J.\*, & Brytek-Matera, A.\* (2
 
 Conference Presentations (<u>Underline</u>: Presenter)
 
-C2.  **<u>Cui, T.</u>**, Xi, J., &  He, J.\* (2021, November). *The Effect of Music on Food Intake: A Meta-Analysis.*[^1] Oral presentation for [The 3rd Annual Academic Conference of Music Psychology Committee of Chinese Psychological Society](https://www.cpsbeijing.org/cms/show.action?code=publish_4028807662f1ccee0162f55d6abc0037&siteid=100000&newsid=9a203c19db0f4468bbaf65526d4e0945&channelid=0000000018), Virtual Conference.
+C2.  **<u>Cui, T.</u>**, Xi, J., &  He, J.\* (2021, November). [^1] *The Effect of Music on Food Intake: A Meta-Analysis*. Oral presentation for [The 3rd Annual Academic Conference of Music Psychology Committee of Chinese Psychological Society](https://www.cpsbeijing.org/cms/show.action?code=publish_4028807662f1ccee0162f55d6abc0037&siteid=100000&newsid=9a203c19db0f4468bbaf65526d4e0945&channelid=0000000018), Virtual Conference.
 C1.  **<u>Cui, T.</u>**, Xi, J., Tang, C., Song, J., &  He, J.\* (2021, October). *The Chinese Version of the Goal Content for Weight Maintenance Scale (GCWMS) among Young Adults: Psychometric Properties and Its Associations with Weight Status and Disordered Eating*. Poster presentation for the [Greater Bay Area Young Scholars Forum on Psychological Science](https://gbaysforum.psy.cuhk.edu.hk/), Virtual Conference. [[poster]](https://gbaysforum.psy.cuhk.edu.hk/wp-content/uploads/2021/10/CUHKSZ_Tianxiang-Cui.pdf)
 
 

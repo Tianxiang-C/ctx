@@ -38,7 +38,7 @@ C1.  **<u>Cui, T.</u>**, Xi, J., Tang, C., Song, J., &  He, J.\* (2021, October)
 #### MANUSCRIPTS (Under Review / Under Revision / In Preparation)
 \# Equal contribution; \* Correspondence.
 
-M7. Barnhart, W. R., **Cui, T.**, Cui, S., Han, X., Lu, C., & He, J. (Under Review). Examining appearance pressures and comparisons as correlates of drive for muscularity and thinness-oriented disordered eating in Chinese heterosexual men and women: Testing an integrated model. *Sex Roles*. [IF = 4.154, JCR - Q1 (Psychology, Development / Psychology, Social / Womens Studies)] 
+M7. Barnhart, W. R., **Cui, T.**, Cui, S., Han, X., Lu, C., & He, J.\* (Under Review). Examining appearance pressures and comparisons as correlates of drive for muscularity and thinness-oriented disordered eating in Chinese heterosexual men and women: Testing an integrated model. *Sex Roles*. [IF = 4.154, JCR - Q1 (Psychology, Development / Psychology, Social / Womens Studies)] 
 
 M6.  Wang, Q.<sup>#</sup>, Cui, S.<sup>#</sup>, Barnhart, W. R., Yu, Y., Liu, Y., **Cui, T.**, & He, J.\* (Under Review). Relationships between retrospective parental feeding practices and Chinese young adults’ current appetitive traits, weight status, and satisfaction with food-related life. *Appetite*. [IF = 3.868 (2020), JCR - Q1 (Behavioral Sciences)]
 

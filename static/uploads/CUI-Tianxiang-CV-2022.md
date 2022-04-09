@@ -7,9 +7,9 @@ title: Tianxiang Cui CV
  </center>
 
  <center>
-     <h6><a href="mailto:tianxiangcui@link.cuhk.edu.cn">[Email]</a> <a href="https://cuitx.netlify.app/">[Homepage]</a> <a href="https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en&inst=17164888368768973094">[Google Scholar]</a> <a href="https://orcid.org/0000-0003-2826-1109">[ORCID]</a> <a href="https://www.researchgate.net/profile/Tianxiang-Cui-3">[ResearchGate]</a></h6><h6>Updated: 2022.4.9</h6>
+     <h6><a href="mailto:tianxiangcui@link.cuhk.edu.cn">[Email]</a> <a href="https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en&inst=17164888368768973094">[Google Scholar]</a> <a href="https://cuitx.netlify.app/">[Homepage]</a> <a href="https://orcid.org/0000-0003-2826-1109">[ORCID]</a> <a href="https://www.researchgate.net/profile/Tianxiang-Cui-3">[ResearchGate]</a></h6><h6>Updated: 2022.4.9</h6>
  </center>
- 
+
 #### EDUCATION
 [__University of Macau__](https://www.um.edu.mo/) (UM; 2022- )
 *Taipa, Macau SAR, China*

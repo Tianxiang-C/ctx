@@ -50,7 +50,7 @@ M3.  He, J.\*, **Cui, T.**, Barnhart, W. R., & Chen, G. (Under Revision). The Ch
 
 M2.  Yu, Y.<sup>#</sup>, **Cui, T.<sup>#</sup>**, Barnhart, W. R., Liu, Y., Wang, Q., & He, J.\* (In Preparation). Exploring the Links from Perceived Childhood Parenting and Childhood Parent-Child Relation to Chinese Adults’ Current Psychological Distress: Impacts of Family-of-origin? *Journal of Affective Disorders*. [IF = 4.839 (2020), JCR-Q1 (Psychiatry-SSCI)]
 
-M1.  Liu, Y.<sup>#</sup>, **Cui, T.<sup>#</sup>**, Barnhart, W. R., Wang, Q., Yu, Y.,& He, J.\* (In Preparation). Perceived Childhood Parenting Styles, Childhood Feeding Practices, and Current Maladaptive and Adaptive Eating Behaviors among Chinese Adolescents and Adults.
+M1.  Liu, Y.<sup>#</sup>, **Cui, T.<sup>#</sup>**, Barnhart, W. R., Wang, Q., Yu, Y.,& He, J.\* (In Preparation). Perceived Childhood Parenting Styles, Childhood Feeding Practices, and Current Maladaptive and Adaptive Eating Behaviors among Chinese Adolescents and Adults. *Eating Behaviors*. [IF = 2.699 (2020), JCR-Q3 (Psychiatry-SSCI / Psychology, Clinical-SSCI)]
 
 #### RESEARCH PROJECTS
 - Research assistant, "Exploring the Effects of Different Modes of School-based Body Image Interventions on Chinese Junior Middle School Students (No. GD21YJY03)" Guangdong Planning Project of Philosophy and Social Science, ￥50,000, 2021-2024. (Principal Investigator: HE Jinbo, CUHKSZ)

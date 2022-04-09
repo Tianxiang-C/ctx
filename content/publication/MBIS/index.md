@@ -20,10 +20,10 @@ authors:
 - TANG Chanyuan
 - SONG Jianwen
 - admin
-- Wesley BARNHART
+- Wesley R. BARNHART
 - CUI Shuqi
 - REN Yaoxiang
-- Jason NAGATA
+- Jason M. NAGATA
 
 date: "2022-01-28T00:00:00Z"
 doi: ""

@@ -93,4 +93,4 @@ __CUHKSZ (Part Time)__
 
 
 
-[^1]: It was my master’s thesis, which was also the draft of [J1](https://doi.org/10.3390/nu13082571). The abstract was submitted to the conference in May, 2021, and was accepted in December, 2021. J1 was published in July, 2021.
+[^1]: It was my master’s thesis, which was also the draft of J1. The abstract was submitted to the conference in May, 2021, and was accepted in December, 2021. J1 was published in July, 2021.

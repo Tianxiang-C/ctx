@@ -29,23 +29,23 @@ BEcon in Economics, Advisor: [Prof. ZHANG Xinhong](https://sxy.hqu.edu.cn/info/1
 
 Journal Article (s)
 
-J1.  **Cui, T.**, Xi, J., Tang, C., Song, J., He, J.\*, & Brytek-Matera, A.\* (2021). The Relationship between Music and Food Intake: A Systematic Review and Meta-Analysis. *Nutrients, 13*(8), 2571. https://doi.org/10.3390/nu13082571 [IF = 5.719 (2020), JCR-Q1 (Nutrition & Dietetics-SCIE)]
+J1.  **Cui, T.**, Xi, J., Tang, C., Song, J., He, J.\*, & Brytek-Matera, A.\* (2021). The Relationship between Music and Food Intake: A Systematic Review and Meta-Analysis. *Nutrients, 13*(8), 2571. [[doi]](https://doi.org/10.3390/nu13082571) [IF = 5.719 (2020), JCR-Q1 (Nutrition & Dietetics-SCIE)]
 
 Conference Presentations (<u>Underline</u>: Presenter)
 
 C2.  **<u>Cui, T.</u>**, Xi, J., &  He, J.\* (2021, November). *The Effect of Music on Food Intake: A Meta-Analysis.* Oral presentation for [The 3rd Annual Academic Conference of Music Psychology Committee of Chinese Psychological Society](https://www.cpsbeijing.org/cms/show.action?code=publish_4028807662f1ccee0162f55d6abc0037&siteid=100000&newsid=9a203c19db0f4468bbaf65526d4e0945&channelid=0000000018), Virtual Conference.
-C1.  **<u>Cui, T.</u>**, Xi, J., Tang, C., Song, J., &  He, J.\* (2021, October). [*The Chinese Version of the Goal Content for Weight Maintenance Scale (GCWMS) among Young Adults: Psychometric Properties and Its Associations with Weight Status and Disordered Eating*](https://gbaysforum.psy.cuhk.edu.hk/wp-content/uploads/2021/10/CUHKSZ_Tianxiang-Cui.pdf). Poster presentation for the [Greater Bay Area Young Scholars Forum on Psychological Science](https://gbaysforum.psy.cuhk.edu.hk/), Virtual Conference.
+C1.  **<u>Cui, T.</u>**, Xi, J., Tang, C., Song, J., &  He, J.\* (2021, October). *The Chinese Version of the Goal Content for Weight Maintenance Scale (GCWMS) among Young Adults: Psychometric Properties and Its Associations with Weight Status and Disordered Eating*. Poster presentation for the [Greater Bay Area Young Scholars Forum on Psychological Science](https://gbaysforum.psy.cuhk.edu.hk/), Virtual Conference. [[poster]](https://gbaysforum.psy.cuhk.edu.hk/wp-content/uploads/2021/10/CUHKSZ_Tianxiang-Cui.pdf)
 
 #### MANUSCRIPTS (Under Review / Under Revision / In Preparation)
 \# Equal contribution; \* Correspondence.
 
 M7. Barnhart, W. R., **Cui, T.**, Cui, S., Han, X., Lu, C., & He, J.\* (Under Review). Examining appearance pressures and comparisons as correlates of drive for muscularity and thinness-oriented disordered eating in Chinese heterosexual men and women: Testing an integrated model. *Sex Roles*. [IF = 4.154, JCR-Q1 (Psychology, Development-SSCI / Psychology, Social-SSCI / Women's Studies-SSCI)] 
 
-M6.  Wang, Q.<sup>#</sup>, Cui, S.<sup>#</sup>, Barnhart, W. R., Yu, Y., Liu, Y., **Cui, T.**, & He, J.\* (Under Review). Relationships between retrospective parental feeding practices and Chinese young adults’ current appetitive traits, weight status, and satisfaction with food-related life. *Appetite*. [IF = 3.868 (2020), JCR-Q1 (Behavioral Sciences-SCIE)]
+M6.  Wang, Q.<sup>#</sup>, Cui, S.<sup>#</sup>, Barnhart, W. R., Yu, Y., Liu, Y., **Cui, T.**, & He, J.\* (Under Review). Relationships between retrospective parental feeding practices and Chinese young adults’ current appetitive traits, weight status, and satisfaction with food-related life. *Appetite*. [[abstract]](https://cuitx.netlify.app/publication/qingyang-shuqi/) [IF = 3.868 (2020), JCR-Q1 (Behavioral Sciences-SCIE)]
 
-M5.  Ren, Y.<sup>#</sup>, Cui, S.<sup>#</sup>, **Cui, T.**, Tang, C., Song, J., Jackson, T., & He, J.\* (Under Review). Body dissatisfaction and suicide-related behaviors among clinical and non-clinical samples: A 27-year systematic review and meta-analysis, 1995-2021. *Clinical Psychology Review*. [IF = 12.792 (2020), JCR-Q1 (Psychology, Clinical-SSCI)]
+M5.  Ren, Y.<sup>#</sup>, Cui, S.<sup>#</sup>, **Cui, T.**, Tang, C., Song, J., Jackson, T., & He, J.\* (Under Review). Body dissatisfaction and suicide-related behaviors among clinical and non-clinical samples: A 27-year systematic review and meta-analysis, 1995-2021. *Clinical Psychology Review*. [[abstract]](https://cuitx.netlify.app/publication/suicide-meta/) [IF = 12.792 (2020), JCR-Q1 (Psychology, Clinical-SSCI)]
 
-M4.  He, J.\*, Tang, C., Song, J., **Cui, T.**,  Barnhart, W. R., Cui, S., Ren, Y., & Nagata, J. M. (Under Review). The Muscle Bias Internalization Scale: Development and Validation. *Body Image*. [IF = 6.406 (2020), JCR-Q1 (Psychology, Clinical-SSCI / Psychiatry-SSCI / Psychology, Multidisciplinary-SSCI)]
+M4.  He, J.\*, Tang, C., Song, J., **Cui, T.**,  Barnhart, W. R., Cui, S., Ren, Y., & Nagata, J. M. (Under Review). The Muscle Bias Internalization Scale: Development and Validation. *Body Image*. [[abstract]](https://cuitx.netlify.app/publication/mbis/) [IF = 6.406 (2020), JCR-Q1 (Psychology, Clinical-SSCI / Psychiatry-SSCI / Psychology, Multidisciplinary-SSCI)]
 
 M3.  He, J.\*, **Cui, T.**, Barnhart, W. R., & Chen, G. (Under Revision). The Chinese Version of Functionality Appreciation Scale among Adolescents, Young and Older Adults: Psychometric Properties and Measurement Invariance across Sex and Age. *Assessment*. [IF = 4.667 (2020), JCR-Q1 (Psychology, Clinical-SSCI)]
 

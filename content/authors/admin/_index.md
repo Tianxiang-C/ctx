@@ -45,7 +45,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CUI-Tianxiang-CV-2022.pdf
+  link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
 - icon: envelope
   icon_pack: fas
   link: '/#contact'

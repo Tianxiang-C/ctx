@@ -27,11 +27,11 @@ BEcon in Economics, Advisor: [Prof. ZHANG Xinhong](https://sxy.hqu.edu.cn/info/1
 
 \* Correspondence.
 
-Journal Article (s)
+***Journal Article (s)***
 
 J1.  **Cui, T.**, Xi, J., Tang, C., Song, J., He, J.\*, & Brytek-Matera, A.\* (2021). The Relationship between Music and Food Intake: A Systematic Review and Meta-Analysis. *Nutrients, 13*(8), 2571. [[doi]](https://doi.org/10.3390/nu13082571) [IF = 5.719 (2020), JCR-Q1 (Nutrition & Dietetics-SCIE)]
 
-Conference Presentations (<u>Underline</u>: Presenter)
+***Conference Presentations*** (<u>Underline</u>: Presenter)
 
 C4.  **<u>Cui, T.</u>**, Xi, J., &  He, J.\* (2021, November). *The Effect of Music on Food Intake: A Meta-Analysis*. Oral presentation for [The 3rd Annual Academic Conference of Music Psychology Committee of Chinese Psychological Society](https://www.cpsbeijing.org/cms/show.action?code=publish_4028807662f1ccee0162f55d6abc0037&siteid=100000&newsid=9a203c19db0f4468bbaf65526d4e0945&channelid=0000000018), Virtual Conference.
 C3. <u>Liu, Y.</u>,  **Cui, T.**, Wang, Q., Yu, Y., &  He, J.\* (2021, October). *Perceived childhood parenting styles, childhood feeding practices, and current maladaptive and adaptive eating behaviors among Chinese adolescents and adults*. Poster presentation for the [Greater Bay Area Young Scholars Forum on Psychological Science](https://gbaysforum.psy.cuhk.edu.hk/), Virtual Conference. [[poster]](https://gbaysforum.psy.cuhk.edu.hk/wp-content/uploads/2021/10/CUHKSZ_Yutian-Liu.pdf)

@@ -1,13 +1,17 @@
 {
     "sortOrder": [
         {
-            "columnIndex": 4,
+            "columnIndex": 3,
             "ascending": false
         },
         {
             "columnIndex": 2,
             "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": false
         }
     ],
-    "path": "D:/personal website/ctx/content/home"
+    "path": "D:/personal website/ctx/content/publication/wes-sex-roles"
 }

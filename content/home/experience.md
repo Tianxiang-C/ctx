@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: SCIentific and Creative Research on Eating, Appetite and Media (Sci-cream) Lab
-    company_url: 'https://myweb.cuhk.edu.cn/hejinbo/Home/MediaReport'
+    company_url: 'https://sci-cream.netlify.app/'
     company_logo: sci-cream
     location: Shenzhen, China
     date_start: '2019-10-01'

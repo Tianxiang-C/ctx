@@ -9,9 +9,6 @@ abstract: "**Objective**: The present study developed a 15-item Muscle Bias Inte
 
 
 **Conclusion**: The newly developed MBIS can be a valuable and promising tool for assessing muscle bias in men. It may help understand the role of such perception biases in the development and maintenance of muscularity-oriented body image and eating disturbances.
-
-
-*Keywords:*  internalized bias, muscle bias, stigma, muscle bias internalization 
 "
 author_notes:
 - Corresponding author

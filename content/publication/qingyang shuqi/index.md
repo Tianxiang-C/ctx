@@ -18,9 +18,7 @@ in eating). These findings suggest that retrospective parental feeding practices
 important correlates of young adults’ current weight status and satisfaction with foodrelated
 life, and that appetitive traits partially explain these relationships in the Chinese
 context.
-
-
-*Keywords:* parental feeding practices, appetitive traits, body mass index, satisfaction with food-related life, Chinese, retrospective reports"
+"
 
 author_notes:
 - Equal contribution
@@ -38,7 +36,7 @@ authors:
 - YU Yiman
 - admin
 - HE Jinbo
-date: "2022-03-15T00:00:00Z"
+date: "2022-04-12T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -50,10 +48,10 @@ featured: false
 #   url: http://example.org
 # projects:
 # - internal-project
-publication: ""
+publication: "*Appetite*"
 publication_short: ""
 publication_types:
-- "3"
+- "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: 

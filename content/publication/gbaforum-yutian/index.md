@@ -9,9 +9,6 @@ abstract: "**Purpose**: The current study aimed to explore the relationships amo
 
 
 **Conclusions**: Perceived childhood parenting styles and childhood feeding practices are more related to adolescents’ and adults’ current maladaptive than adaptive eating behaviors. Parents’ feeding practices might be a mediator between childhood parenting styles and current disordered eating behaviors, especially in males.
-
-
-*Keywords*: Perceived parent style, perceived feeding practices, intuitive eating, disordered eating, mediation
 "
 author_notes:
 -
@@ -38,6 +35,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary:
 tags:
+- perceived parent style
+- perceived feeding practices
+- intuitive eating
+- disordered eating
+- mediation
 title: "Perceived childhood parenting styles, childhood feeding practices, and current maladaptive and adaptive eating behaviors among Chinese adolescents and adults"
 url_code:
 url_dataset: ''

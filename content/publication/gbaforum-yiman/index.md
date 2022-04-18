@@ -9,8 +9,6 @@ abstract: "**Purpose**: This research aims to explore the links from perceived c
 
 
 **Conclusions**: These findings suggest the interactions (e.g., parents’ rejection) between parents and children in adults’ childhood may have an important impact on adults’ current mental health, highlighting the potential existence of “impacts of family-of-origin”.
-
-*Keywords*: Parenting styles, parent-child relation, Chinese adults, psychological distress
 "
 author_notes:
 -
@@ -37,6 +35,10 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary:
 tags:
+- parenting styles
+- parent-child relation
+- Chinese adults
+- psychological distress
 title: "Exploring the links from perceived childhood parenting and childhood parent-child relation to Chinese adults’ current psychological distress: Impacts of family-of-origin?"
 url_code:
 url_dataset: ''

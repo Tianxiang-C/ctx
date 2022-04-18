@@ -15,10 +15,7 @@ SE, 0.03; *t* = 7.80, *p* < 0.001), and 0.26 (95% CI, 0.19–0.32; SE, 0.04; *t*
 Several study features (e.g., participant age, survey method, and instrument validity)
 emerged as significant moderators. Potential explanations, implications, and future
 research directions are discussed.
-
-
-*Keywords:* body dissatisfaction, suicidal behavior, non-suicidal self-injury, meta-analysis,
-systematic review"
+"
 author_notes:
 - Equal contribution
 - Equal contribution

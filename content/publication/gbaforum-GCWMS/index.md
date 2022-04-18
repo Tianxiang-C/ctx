@@ -9,9 +9,6 @@ abstract: "**Purpose**: This current work aims to translate the Goal Content for
 
 
 **Conclusions**: The C-GCWMS was psychometrically adequate for the sample of Chinese students. As disordered eating and BMI were significantly and positively correlated with goal content for weight management, goal content for weight management can be important contributors to individuals’ weight status and disordered eating behaviors. However, the roles of goal content for weight management in weight status and disordered eating behaviors should be confirmed in future experimental and/or longitudinal studies.
-
-
-*Keywords*: weight maintenance, goal content, validation, Chinese, invariance
 "
 author_notes:
 -

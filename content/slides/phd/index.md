@@ -7,10 +7,18 @@ categories: []
 date: '2021-05-14T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: white
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
+---
+
+心理学申博分享——以港澳地区为例
+
+崔天祥
+
+2020.5.14
+
 ---
 
 ## 关于我
@@ -19,19 +27,19 @@ slides:
 
 ---
 
-# Studying in CUHKSZ
+## 在港中深的求学时光
 
-- 2019
+- 2019年下半年
 
-  - Struggling
+  - 磕磕绊绊：全英授课、课程难度、专注程度、慢热？
 
-- 2020
+- 2020年
 
-  - Better
+  - 略有起色：论文写作&研究方法
 
-- 2021
+- 2021年
 
-  - I'll apply for PhD
+  - 逐渐坚定：gap一年用来提升自我和申博
 
 ---
 

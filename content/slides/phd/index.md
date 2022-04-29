@@ -13,13 +13,13 @@ slides:
   highlight_style: dracula
 ---
 
-## About Me
+# About Me
 
-Home page: <https://cuitx.netlify.app/>
+Home page: https://cuitx.netlify.app/
 
 ---
 
-## Studying in CUHKSZ
+# Studying in CUHKSZ
 
 - 2019
   - Struggling 
@@ -30,7 +30,7 @@ Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## Timeline-School Selection
+# Timeline-School Selection
 
 - 2021.7: Searching for Information of Supervisors (**bolded** indicates a formal application)
   - HKU
@@ -42,7 +42,7 @@ Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## Timeline-Emailing Supervisors
+# Timeline-Emailing Supervisors
 
 - 2021.8-10
   - **15** supervisors contacted
@@ -53,7 +53,7 @@ Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## Timeline-Research
+# Timeline-Research
 
 - 2021.7: first journal article accepted (as first author)
 - 2021.10: GBA forum
@@ -67,7 +67,7 @@ Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## Timeline-Formal Application
+# Timeline-Formal Application
 
 - Prior to 2021.10.28.
   - UMacau
@@ -77,7 +77,7 @@ Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## Timeline-Language Test Scores
+# Timeline-Language Test Scores
 
 - Took the IELTS test in late November
   - Proof of English instruction alone may not be enough
@@ -85,7 +85,7 @@ Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## Tips
+# Tips
 
 - Actively participate in research projects
 - Need to know more about the supervisor you are applying to

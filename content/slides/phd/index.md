@@ -1,7 +1,7 @@
 ---
-title: "心理学申博分享——以港澳地区为例"
+title: "PhD Application sharing"
 summary: 
-authors: ["崔天祥"]
+authors: [CUI Tianxiang]
 tags: []
 categories: []
 date: '2022-05-14T00:00:00Z'
@@ -13,93 +13,92 @@ slides:
   highlight_style: dracula
 ---
 
-## 关于我
+## About Me
 
-个人主页：<https://cuitx.netlify.app/>
+Home page: <https://cuitx.netlify.app/>
 
 ---
 
-## 在港中深的求学时光
+## Studying in CUHKSZ
 
--   2019年下半年
+-   2019
 
-    -   磕磕绊绊：全英授课、课程难度、专注程度、慢热？
+    -   Struggling 
 
 -   2020年
 
-    -   略有起色：论文写作&研究方法
+    -   Better
 
 -   2021年
 
-    -   逐渐坚定：gap一年用来提升自我和申博
+    -   I'll apply for PhD
 
-## 申博时间线------择校
+## Timeline-School Selection
 
--   2021年7月开始在各学校官网查询导师信息（加粗的表示有正式申请）
+-   2021.7: Searching for Information of Supervisors (**bolded** indicates a formal application)
+    -   HKU
 
-    -   香港大学
+    -   **HKU (Public Health)**
 
-    -   **香港中文大学（公共卫生）**
+    -   **PolyU (APSS)**
 
-    -   **香港理工大学（应用社科：心理学，精神卫生与健康）**
+    -   CityU
 
-    -   香港城市大学
+    -   **HKU (Sports and Physical Education)**
 
-    -   **香港浸会大学（运动与体育）**
+    -   **UMacau (Psychology)**
 
-    -   **澳门大学（心理学）**
+## Timeline-Emailing Supervisors
 
-## 申博时间线------联系导师
+-   2021.8-10
 
--   2021年8月末开始邮件联系导师，持续到10月末
+    -   **15** supervisors contacted
 
-    -   共联系了约**15**位导师
+    -   **5** positive replies
 
-    -   有积极回复的约**5**位
+    -   **3** negative replies
 
-    -   有消极回复或有些敷衍的约**3**位
+    -   **2** informal interviews (UMacau & PolyU)
 
-    -   面谈过**2**位（澳门大学和香港理工大学）
-
-    -   正式面试**1**次（香港浸会大学）
-
----
-
-## 申博时间线------科研
-
--   2021年7月份，第一篇期刊论文接收（第一作者）
--   2021年10月份，参加粤港澳大湾区心理学会议
-    -   有三篇参与的论文接收（一篇一作），海报展示
-    -   两篇获奖
--   2021年10月份，一个比较大的项目做出了初步结果
-    -   申请时附上了论文摘要
--   2021年11月份，参加中国心理学会的会议
-    -   与期刊论文为同一篇（会议接收晚于期刊接收）；口头汇报
-    -   符合期刊出版社的要求，且获得了会议负责人的同意
+    -   **1** formal interview (HKBU)
 
 ---
 
-## 申博时间线------正式申请
+## Timeline-Research
 
--   2021年10月28日前
-    -   澳门大学
--   2021年12月1日前
-    -   港校（港中文需要纸质材料；港浸会无法提交彩色材料，需要转换成黑白色）
--   缴费：银联比较方便；港浸会可以用支付宝支付
-
----
-
-## 申博时间线------语言成绩
-
--   11月末考了雅思
-    -   仅靠英文授课证明可能不够
-    -   最好再考一次语言成绩以增加优势（尤其是语言成绩过期了的话）
+-   2021.7: first journal article accepted (as first author)
+-   2021.10: GBA forum
+    -   Three participating papers received (one was as first author); poster presentation
+    -   Two were awarded
+-   2021.10: preliminary results of one big project were produced
+    -   Abstract was submitted when applying
+-   2021.11: another conference
+    -   Same paper as the journal paper (conference acceptance is later than journal acceptance); oral presentation
+    -   Met the requirements of the journal publisher and obtained the approval of the conference director
 
 ---
 
-## 感悟
+## Timeline-Formal Application
 
--   积极参与研究项目
--   对于申请的导师需要了解更充分
+-   Prior to 2021.10.28.
+    -   UMacau
+-   Prior to 2021.12.1
+    -   Hong Kong Universities (CUHK requires paper materials; HKBU needs black and white materials)
+-   Payment: UnionPay is more convenient; HKBU supports Alipay
+
+---
+
+## Timeline-Language Test Scores
+
+-   Took the IELTS test in late November
+    -   Proof of English instruction alone may not be enough
+    -   It is better to take another language test for more advantages (especially if the language score has expired)
+
+---
+
+## Tips
+
+-   Actively participate in research projects
+-   Need to know more about the supervisor you are applying to
 
 ---

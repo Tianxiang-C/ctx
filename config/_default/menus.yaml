@@ -15,7 +15,7 @@ main:
   #   weight: 30
   - name: Talks
     url: '#talks'
-    weight: 55
+    weight: 45
   - name: Publications
     url: '#publications'
     weight: 50

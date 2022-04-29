@@ -25,7 +25,7 @@ slides:
 
 个人主页：https://cuitx.netlify.app/
 
-![image](static/uploads/homepage-about.png){width="760"}
+![image](homepage-about.png)
 
 ---
 
@@ -45,90 +45,89 @@ slides:
 
 ---
 
-# Timeline-School Selection
+## 申博时间线------择校
 
-- 2021.7: Searching for Information of Supervisors (**bolded** indicates a formal application)
+- 2021年7月开始在各学校官网查询导师信息（加粗的表示有正式申请）
 
-  - HKU
+  - 香港大学
 
-  - **HKU (Public Health)**
+  - **香港中文大学（公共卫生）**
 
-  - **PolyU (APSS)**
+  - **香港理工大学（应用社科：心理学，精神卫生与健康）**
 
-  - CityU
+  - 香港城市大学
 
-  - **HKU (Sports and Physical Education)**
+  - **香港浸会大学（运动与体育）**
 
-  - **UMacau (Psychology)**
-
----
-
-# Timeline-Emailing Supervisors
-
-- 2021.8-10
-
-  - **15** supervisors contacted
-
-  - **5** positive replies
-
-  - **3** negative replies
-
-  - **2** informal interviews (UMacau & PolyU)
-
-  - **1** formal interview (HKBU)
+  - **澳门大学（心理学）**
 
 ---
 
-# Timeline-Research
+## 申博时间线------联系导师
 
-- 2021.7: first journal article accepted (as first author)
+- 2021年8月末开始邮件联系导师，持续到10月末
 
-- 2021.10: GBA forum
+  - 共联系了约**15**位导师
 
-  - Three participating papers received (one was as first author); poster presentation
+  - 有积极回复的约**5**位
 
-  - Two were awarded
+  - 有消极回复或有些敷衍的约**3**位
 
-- 2021.10: preliminary results of one big project were produced
+  - 面谈过**2**位（澳门大学和香港理工大学）
 
-  - Abstract was submitted when applying
-
-- 2021.11: another conference
-
-  - Same paper as the journal paper (conference acceptance is later than journal acceptance); oral presentation
-
-  - Met the requirements of the journal publisher and obtained the approval of the conference director
+  - 正式面试**1**次（香港浸会大学）
 
 ---
 
-# Timeline-Formal Application
+## 申博时间线------科研
 
-- Prior to 2021.10.28
+- 2021年7月份，第一篇期刊论文接收（第一作者）
 
-  - UMacau
+- 2021年10月份，参加粤港澳大湾区心理学会议
 
-- Prior to 2021.12.1
+  - 有三篇参与的论文接收（一篇一作），海报展示
 
-  - Hong Kong Universities (CUHK requires paper materials; HKBU needs black and white materials)
+   - 两篇获奖
 
-- Payment: UnionPay is more convenient; HKBU supports Alipay
+- 2021年10月份，一个比较大的项目做出了初步结果
+
+  - 申请时附上了论文摘要
+
+- 2021年11月份，参加中国心理学会的会议
+
+  - 与期刊论文为同一篇（会议接收晚于期刊接收）；口头汇报
+
+  - 符合期刊出版社的要求，且获得了会议负责人的同意
+---
+
+## 申博时间线------正式申请
+
+- 2021年10月28日前
+
+  - 澳门大学
+
+- 2021年12月1日前
+
+  - 港校（港中文需要纸质材料；港浸会无法提交彩色材料，需要转换成黑白色）
+
+- 缴费：银联比较方便；港浸会可以用支付宝支付
 
 ---
 
-# Timeline-Language Test Scores
+## 申博时间线------语言成绩
 
-- Took the IELTS test in late November
+- 11月末考了雅思
 
-  - Proof of English instruction alone may not be enough
+  - 仅靠英文授课证明可能不够
 
-  - It is better to take another language test for more advantages (especially if the language score has expired)
+  - 最好再考一次语言成绩以增加优势（尤其是语言成绩过期了的话）
 
 ---
 
-# Tips
+## 感悟
 
-- Actively participate in research projects
+- 积极参与研究项目
 
-- Need to know more about the supervisor you are applying to
+- 对于申请的导师需要了解更充分
 
 ---

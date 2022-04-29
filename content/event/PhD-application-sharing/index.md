@@ -34,8 +34,8 @@ image:
 #    name: 
 #    url: 
 url_code: ''
-url_pdf: 'content/slides/PhD.md'
-url_slides: ''
+url_pdf: ''
+url_slides: 'content/slides/PhD.md'
 url_video: ''
 
 # Markdown Slides (optional).

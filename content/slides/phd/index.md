@@ -1,7 +1,7 @@
 ---
-title: "PhD Application sharing"
+title: Slides
 summary: 
-authors: [CUI Tianxiang]
+authors: []
 tags: []
 categories: []
 date: '2022-05-14T00:00:00Z'
@@ -33,6 +33,8 @@ Home page: <https://cuitx.netlify.app/>
 
     -   I'll apply for PhD
 
+---
+
 ## Timeline-School Selection
 
 -   2021.7: Searching for Information of Supervisors (**bolded** indicates a formal application)
@@ -47,6 +49,8 @@ Home page: <https://cuitx.netlify.app/>
     -   **HKU (Sports and Physical Education)**
 
     -   **UMacau (Psychology)**
+
+---
 
 ## Timeline-Emailing Supervisors
 

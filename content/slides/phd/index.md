@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-心理学申博分享——以港澳地区为例
+## 心理学申博分享——以港澳地区为例
 
 崔天祥
 
@@ -24,6 +24,8 @@ slides:
 ## 关于我
 
 个人主页：https://cuitx.netlify.app/
+
+![](uplaods/homepage-about.png){width="760"}
 
 ---
 

@@ -25,11 +25,11 @@ Home page: <https://cuitx.netlify.app/>
 
     -   Struggling 
 
--   2020年
+-   2020
 
     -   Better
 
--   2021年
+-   2021
 
     -   I'll apply for PhD
 

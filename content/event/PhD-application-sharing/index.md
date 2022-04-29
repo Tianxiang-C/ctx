@@ -1,5 +1,5 @@
 ---
-title: PhD Application Sharing
+title: Applying for a PhD: My experiences and tips
 
 event: 
 event_url: 

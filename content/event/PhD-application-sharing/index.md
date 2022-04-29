@@ -34,7 +34,7 @@ image:
 #    name: 
 #    url: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'content/slides/PhD.md'
 url_slides: ''
 url_video: ''
 

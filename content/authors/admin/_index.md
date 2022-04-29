@@ -21,6 +21,7 @@ Interests:
 - Body Image
 - Eating Behaviors
 - Quantitative Methods in Psychology
+- Music Psychology
 
 # Education to show in About widget
 education:

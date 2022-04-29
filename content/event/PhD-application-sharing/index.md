@@ -35,7 +35,7 @@ image:
 #    url: 
 url_code: ''
 url_pdf: 'uploads/phd-ppt.pdf'
-url_slides: ''
+url_slides: 'uploads/PhD-application-sharing.html'
 url_video: ''
 
 # Markdown Slides (optional).

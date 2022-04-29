@@ -25,7 +25,7 @@ slides:
 
 个人主页：https://cuitx.netlify.app/
 
-![](uplaods/homepage-about.png){width="760"}
+![image](static/uploads/homepage-about.png){width="760"}
 
 ---
 

@@ -109,11 +109,11 @@ slides:
 
 ---
 
-## 感悟
+## 感悟与补充
 
 - 积极参与研究项目
-
 - 对于申请的导师需要了解更充分
+- 实验室公众号的推文：https://mp.weixin.qq.com/s/VuNvgwQ_eGvYmqNe4zsPtQ
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Slides
+title: "心理学申博分享——以港澳地区为例"
 summary: 
-authors: []
+authors: [崔天祥]
 tags: []
 categories: []
 date: '2021-05-14T00:00:00Z'
@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# About Me
+## 关于我
 
-Home page: https://cuitx.netlify.app/
+个人主页：https://cuitx.netlify.app/
 
 ---
 

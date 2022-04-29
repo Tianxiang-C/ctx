@@ -1,5 +1,5 @@
 ---
-title: Applying for a PhD: My experiences and tips
+title: "Applying for a PhD: My experiences and tips"
 
 event: 
 event_url: 

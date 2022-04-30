@@ -17,7 +17,7 @@ slides:
 
 崔天祥
 
-2020.5.14
+2022.5.14
 
 ---
 
@@ -112,8 +112,12 @@ slides:
 ## 感悟与补充
 
 - 积极参与研究项目
+
 - 对于申请的导师需要了解更充分
-- 实验室公众号的推文：https://mp.weixin.qq.com/s/VuNvgwQ_eGvYmqNe4zsPtQ
+
+- 注意截止日期
+
+- [实验室公众号的推文](https://mp.weixin.qq.com/s/VuNvgwQ_eGvYmqNe4zsPtQ)
 
 ---
 

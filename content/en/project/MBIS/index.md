@@ -31,9 +31,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: 
 tags:
-
-tag: ['Preprint', 'internalized bias
-']
+- Preprint
+- internalized bias
+- muscle bias
+- stigma
+- muscle bias internalization
 categories:
 - internalized bias
 - muscle bias

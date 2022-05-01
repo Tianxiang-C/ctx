@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: 出版物
 subtitle: ''
 
 content:
@@ -27,11 +27,11 @@ content:
 content:
   # Filter on criteria
   filter_button:
-    - name: Journal article
+    - name: 期刊论文
       tag: Journal article
-    - name: Conference paper
+    - name: 会议论文
       tag: Conference paper
-    - name: Preprint
+    - name: 预印版
       tag: Preprint
       
  

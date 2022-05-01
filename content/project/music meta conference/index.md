@@ -12,7 +12,7 @@ doi: ""
 featured: false
 
 
-publication: *The 3rd Annual Academic Conference of Music Psychology Committee of Chinese Psychological Society*
+publication: "*The 3rd Annual Academic Conference of Music Psychology Committee of Chinese Psychological Society*"
 publication_short:
 publication_types:
 - "1"

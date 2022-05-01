@@ -16,7 +16,7 @@ authors:
 - HE Jinbo
 - TANG Chanyuan
 - SONG Jianwen
-- admin
+- CUI Tianxiang
 - Wesley R. BARNHART
 - CUI Shuqi
 - REN Yaoxiang

@@ -37,7 +37,10 @@ tags:
 - stigma
 - muscle bias internalization
 categories:
-- Preprint
+- internalized bias
+- muscle bias
+- stigma
+- muscle bias internalization
 title: "Body dissatisfaction and suicide-related behaviors in clinical and non-clinical samples:
 A meta-analysis of studies published in 1995–2021"
 url_code: 

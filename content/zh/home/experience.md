@@ -38,7 +38,7 @@ experience:
         * 翻译文件（如量表条目的本地化）。
         * 参与量表的开发（与导师和实验室成员讨论条目的语义；收集数据并进行初步分析）。
         
-  - title: 助教：HSS1009 [数学（人文社科）]
+  - title: 助教：HSS1009——数学（人文社科）
     company: 香港中文大学（深圳）人文社科学院
     company_url: 'https://hss.cuhk.edu.cn/'
     company_logo: cuhksz

@@ -17,7 +17,7 @@ zh:
     description: Site description in Chinese...
   menu:
     main:
-  - name: "关于"
+  - name: 关于
     url: '#about'
     weight: 10
   # - name: Blogs
@@ -26,21 +26,21 @@ zh:
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  - name: "谈话"
+  - name: 谈话
     url: '#talks'
     weight: 45
-  - name: "出版物"
+  - name: 出版物
     url: '#publications'
     weight: 50
-  - name: "技能"
+  - name: 技能
     url: '#skills'
     weight: 15
-  - name: "联系方式"
+  - name: 联系方式
     url: '#contact'
     weight: 70
-  - name: "关键词"
+  - name: 关键词
     url: '#tags'
     weight: 60
-  - name: "经历"
+  - name: 经历
     url: '#experience'
     weight: 20

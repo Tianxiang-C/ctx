@@ -28,11 +28,11 @@ content:
   # Filter on criteria
   filter_button:
     - name: Journal article
-      category: Journal article
+      tag: Journal article
     - name: Conference paper
-      category: Conference paper
+      tag: Conference paper
     - name: Preprint
-      category: Preprint
+      tag: Preprint
       
  
 design:

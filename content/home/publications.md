@@ -27,12 +27,12 @@ content:
 content:
   # Filter on criteria
   filter_button:
-    - name: All
-      tag: '*'
-    - name: BMI
-      tag: BMI
-    - name: Chinese
-      tag: Chinese
+    - name: Journal article
+      tag: Journal article
+    - name: Conference paper
+      tag: Conference paper
+    - name: Preprint
+      tag: Preprint
       
  
 design:

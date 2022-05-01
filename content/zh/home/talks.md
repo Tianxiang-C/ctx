@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Talks & Pres'
-subtitle: Slides are attached here
+title: '谈话 & 展示'
+subtitle: 详情页中可查看演示文稿
 
 content:
   # Page type to display. E.g. post, event, publication...

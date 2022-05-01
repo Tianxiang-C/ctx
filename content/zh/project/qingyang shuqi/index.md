@@ -36,6 +36,7 @@ slides:
 summary: 
 tags:
 - Journal article
+categories:
 - parental feeding practices
 - appetitive traits
 - body mass index

@@ -21,7 +21,7 @@ author_notes:
 - Corresponding author
 authors:
 - Wesley R. BARNHART
-- admin
+- CUI Tianxiang
 - CUI Shuqi
 - HAN Xinni
 - LU Chen

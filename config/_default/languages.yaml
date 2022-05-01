@@ -18,6 +18,6 @@ zh:
   menu:
     main:
   - name: 关于
-    url: 'content/zh/about'
+    url: 'content/zh/authors/admin/_index.md'
     weight: 10
   

@@ -1,5 +1,5 @@
 ---
-title: "Applying for a PhD: My experiences and tips"
+title: "心理学申博分享——以港澳地区为例"
 
 event: 
 event_url: 

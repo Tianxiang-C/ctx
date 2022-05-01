@@ -72,4 +72,4 @@ related:
 security:
   _merge: deep
   
-enableGitInfo = false
+enableGitInfo: false

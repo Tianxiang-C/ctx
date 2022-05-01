@@ -31,7 +31,7 @@ content:
       tag: Journal article
     - name: Conference paper
       tag: Conference paper
-    - name: Preprint
+    - name: Working paper
       tag: Preprint
       
  

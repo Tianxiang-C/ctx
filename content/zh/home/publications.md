@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 出版作品
+title: 作品
 subtitle: ''
 
 content:
@@ -31,7 +31,7 @@ content:
       tag: Journal article
     - name: 会议论文
       tag: Conference paper
-    - name: 手稿
+    - name: 工作论文
       tag: Preprint
       
  

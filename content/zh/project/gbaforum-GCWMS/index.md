@@ -25,6 +25,7 @@ slides:
 summary:
 tags:
 - Conference paper
+categories:
 - weight maintenance
 - goal content
 - validation

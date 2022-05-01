@@ -31,11 +31,12 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: 
 tags:
-- Preprint
 - internalized bias
 - muscle bias
 - stigma
 - muscle bias internalization
+categories:
+- Preprint
 title: "Body dissatisfaction and suicide-related behaviors in clinical and non-clinical samples:
 A meta-analysis of studies published in 1995–2021"
 url_code: 

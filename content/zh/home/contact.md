@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
-subtitle:
+title: 联系方式
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?

@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 'Talks & Pres'
-subtitle: Slides are attached here
+subtitle: Slides can be found in the detail pages
 
 content:
   # Page type to display. E.g. post, event, publication...

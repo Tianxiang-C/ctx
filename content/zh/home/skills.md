@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: 技能
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: statistical analysis, rmarkdown, blogdown, etc.
+- description: 数据分析
   icon: r-project
   icon_pack: fab
   name: R
-- description: Mandarin (native), English (IELTS 7.5), Cantonese (beginner)
+- description: 普通话（母语），英语（雅思7.5），粤语（初学者）
   icon: language
   icon_pack: fas
-  name: Language
-- description: SEM, meta, etc.
+  name: 语言
+- description: 结构方程模型，元分析......
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: 统计方法
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

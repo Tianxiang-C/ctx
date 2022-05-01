@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: 'Talks & Pres'
+subtitle: Slides are attached here
 
 content:
   # Page type to display. E.g. post, event, publication...

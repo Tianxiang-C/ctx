@@ -2,6 +2,7 @@
 title: "Examining Appearance Pressures and Comparisons as Correlates of Drive for Muscularity and Thinness-Oriented Disordered Eating in Chinese Heterosexual Men and Women: Testing an Integrated Model"
 tags:
 - Preprint
+categories:
 - body image
 - drive for muscularity
 - disordered eating

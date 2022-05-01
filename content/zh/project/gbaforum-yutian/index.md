@@ -25,6 +25,7 @@ slides:
 summary:
 tags:
 - Conference paper
+categories:
 - perceived parent style
 - perceived feeding practices
 - intuitive eating

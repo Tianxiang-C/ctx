@@ -32,7 +32,7 @@ content:
     - name: Conference paper
       tag: Conference paper
     - name: Working paper
-      tag: 'Preprint'
+      tag: Preprint
       
  
 design:

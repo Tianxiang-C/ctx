@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: "Tianxiang's Homepage" # Website name
 baseurl: 'https://cuitx.netlify.app/' # Website URL
-copyright: '© {year} Tianxiang Cui' # Footer text, e.g. '© {2022} Cui Tianxiang'
+copyright: '© {year} CUI Tianxiang' # Footer text, e.g. '© {2022} Cui Tianxiang'
 
 ############################
 ## LANGUAGE

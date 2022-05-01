@@ -15,4 +15,9 @@ zh:
   title: "崔天祥的主页"
   params:
     description: Site description in Chinese...
- 
+  menu:
+    main:
+  - name: 关于
+    url: 'content/zh/about'
+    weight: 10
+  

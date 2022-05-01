@@ -16,7 +16,7 @@ main:
   - name: 演讲分享
     url: '#talks'
     weight: 45
-  - name: 出版作品
+  - name: 作品
     url: '#publications'
     weight: 50
   - name: 技能

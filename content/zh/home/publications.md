@@ -31,7 +31,7 @@ content:
       tag: Journal article
     - name: 会议论文
       tag: Conference paper
-    - name: 预印版
+    - name: 手稿
       tag: Preprint
       
  

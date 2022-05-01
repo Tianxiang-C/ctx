@@ -32,6 +32,7 @@ slides:
 summary: 
 tags:
 - Preprint
+categories:
 - internalized bias
 - muscle bias
 - stigma

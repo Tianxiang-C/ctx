@@ -1,39 +1,39 @@
 ---
 # Display name
-title: CUI Tianxiang
+title: 崔天祥
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant in Applied Psychology
+role: 研究助理
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Chinese University of Hong Kong, Shenzhen
-  url: https://www.cuhk.edu.cn/en
+- name: 香港中文大学（深圳）
+  url: https://www.cuhk.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include body image, eating behaviors, quantitative methods in psychology, and music psychology.
+bio: 我的研究兴趣：身体意象，进食行为，量化方法以及音乐心理学。
 
 # Interests to show in About widget
 Interests:
-- Body Image
-- Eating Behaviors
-- Quantitative Methods in Psychology
-- Music Psychology
+- 身体意象
+- 进食行为
+- 量化方法
+- 音乐心理学
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Psychology
-    institution: University of Macau
-    year: 2022-2026 (anticipated)
-  - course: MSc in Applied Psychology
-    institution: The Chinese University of Hong Kong, Shenzhen
+  - course: 心理学哲学博士
+    institution: 澳门大学
+    year: 2022-2026（预计）
+  - course: 应用心理学理学硕士
+    institution: 香港中文大学（深圳）
     year: 2019-2021
-  - course: BEcon in Economics
-    institution: Huaqiao University
+  - course: 经济学学士
+    institution: 华侨大学
     year: 2015-2019
 
 # Social/Academic Networking
@@ -70,10 +70,9 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my website! I'm CUI Tianxiang (崔天祥), a research assistant in [SCI-Cream Lab](https://sci-cream.netlify.app/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), working under Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works)'s supervision. In August 2022, I will begin my PhD studies in [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/).
+我是崔天祥，现为香港中文大学（深圳）[SCI-Cream实验室](https://sci-cream.netlify.app/)的研究助理，导师为[何金波](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works)教授。我将于2022年8月开始在[澳门大学心理学系](https://www.um.edu.mo/fss/psychology/)攻读博士学位。
 
-I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020 to 2021. One of the accomplishments was the translation (from English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which could be available on Chinese e-commerce platforms in 2023 (I've been a fan of Pokémon since primary school).
+2020年至2021年，我在[成都语言桥翻译有限公司](https://www.lan-bridge.com/)担任兼职译员，并于2021年翻译了[The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon)（英译中；本人是宝可梦老粉）。本书可在2023年见于电商平台。
 
-In my leisure time, I enjoy reading, practicing calligraphy, listening to music, etc. You may learn more about my interests by visiting my [Bilibili](https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0) webpage.
-
+我喜欢阅读、练习书法、听音乐等。可以访问我的[B站主页](https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0)了解我的更多兴趣爱好。
 

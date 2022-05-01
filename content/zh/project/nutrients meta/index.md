@@ -31,6 +31,7 @@ slides:
 summary: The effect size was marginally significant but small. Body Mass Index was found to significantly contribute to the heterogeneity of effect sizes, with larger positive effects of music on food intake for individuals with higher BMI.
 tags:
 - Journal article
+categories:
 - music
 - food intake
 - body mass index

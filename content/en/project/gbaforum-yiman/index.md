@@ -25,6 +25,7 @@ slides:
 summary:
 tags:
 - Conference paper
+categories:
 - parenting styles
 - parent-child relation
 - Chinese adults

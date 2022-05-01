@@ -16,7 +16,7 @@ doi: ""
 featured: false
 
 
-publication: *Greater Bay Area Young Scholars Forum on Psychological Science*
+publication: "*Greater Bay Area Young Scholars Forum on Psychological Science*"
 publication_short:
 publication_types:
 - "1"

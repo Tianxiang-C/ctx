@@ -27,7 +27,7 @@ featured: false
 #   url: http://example.org
 # projects:
 # - internal-project
-publication: "*Appetite*"
+publication: "*Appetite, 175*, 106061"
 publication_short: ""
 publication_types:
 - "2"

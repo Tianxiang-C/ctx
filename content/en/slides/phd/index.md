@@ -67,15 +67,11 @@ slides:
 
 ---
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
----
-
 ### 申博时间线------联系导师
 
 - 2021年8月末开始邮件联系导师，持续到10月末
+
+---
 
 {{%/* fragment */%}} 共联系了约**15**位导师 {{%/* /fragment */%}}
 

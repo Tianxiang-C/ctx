@@ -15,10 +15,7 @@ slides:
 
 ### 心理学申博分享——以港澳地区为例
 
-
 崔天祥
-
-tianxiangcui@link.cuhk.edu.cn
 
 2022.5.14
 

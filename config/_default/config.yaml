@@ -27,6 +27,11 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
     - path: github.com/Tianxiang-C/wowchemy-widget-tracker
 
+backend:
+  name: git-gateway
+  repo: Tianxiang-C/ctx
+  branch: master
+  
 ############################
 ## ADVANCED
 ############################

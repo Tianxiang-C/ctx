@@ -11,6 +11,10 @@ summary: "VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
 
 Meeting ID：846-312-336"
 
+abstract: "VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
+
+Meeting ID：846-312-336"
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-05-18T10:00:00Z'

@@ -7,11 +7,10 @@ event_url: https://mp.weixin.qq.com/s/Oq5tpVHNG3LzJXPwxvIG_A
 location: 
 address:
  
-summary: "VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
-
-Meeting ID：846-312-336"
+summary: "VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa, Meeting ID：846-312-336"
 
 abstract: "VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
+
 
 Meeting ID：846-312-336"
 

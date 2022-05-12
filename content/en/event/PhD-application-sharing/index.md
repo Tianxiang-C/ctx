@@ -2,17 +2,19 @@
 title: "Applying for a PhD: My experiences and tips"
 
 event: 
-event_url: 
+event_url: https://mp.weixin.qq.com/s/Oq5tpVHNG3LzJXPwxvIG_A
 
 location: 
 address:
  
-summary: 
+summary: VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
+
+Meeting ID：846-312-336
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-18T13:00:00Z'
-date_end: '2022-05-18T15:00:00Z'
+date: '2022-05-18T10:00:00Z'
+date_end: '2022-05-18T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

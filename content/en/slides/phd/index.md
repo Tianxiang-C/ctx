@@ -7,13 +7,13 @@ categories: []
 date: '2021-05-14T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: serif
+  theme: solarized
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
-## 心理学申博分享——以港澳地区为例
+### 心理学申博分享——以港澳地区为例
 
 崔天祥
 
@@ -56,13 +56,13 @@ slides:
 
 ### 申博时间线------择校
 
-- 2021年7月开始在各学校官网查询导师信息（加粗的表示有正式申请）
+- 2021年7月开始在各学校官网查询导师信息（加粗且高亮的表示有正式申请）
   - 香港大学
   - {{<hl>}}**香港中文大学（公共卫生）**{{</hl>}}
-  - **香港理工大学（应用社科：心理学，精神卫生与健康）**
+  - {{<hl>}}**香港理工大学（应用社科：心理学，精神卫生与健康）**{{</hl>}}
   - 香港城市大学
-  - **香港浸会大学（运动与体育）**
-  - **澳门大学（心理学）**
+  - {{<hl>}}**香港浸会大学（运动与体育）**{{</hl>}}
+  - {{<hl>}}**澳门大学（心理学）**{{</hl>}}
 
 ---
 

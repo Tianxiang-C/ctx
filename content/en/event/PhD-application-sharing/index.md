@@ -1,7 +1,7 @@
 ---
 title: "Applying for a PhD: My experiences and tips"
 
-event: 
+event: Sharing Session
 event_url: https://mp.weixin.qq.com/s/Oq5tpVHNG3LzJXPwxvIG_A
 
 location: 

@@ -30,7 +30,7 @@ module:
 backend:
   name: git-gateway
   repo: Tianxiang-C/ctx
-  branch: master
+  branch: main
   
 ############################
 ## ADVANCED

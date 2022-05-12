@@ -7,9 +7,9 @@ event_url: https://mp.weixin.qq.com/s/Oq5tpVHNG3LzJXPwxvIG_A
 location: 
 address:
  
-summary: VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
+summary: "VooV Meeting url: https://meeting.tencent.com/dw/68CRNnUxkZUa
 
-Meeting ID：846-312-336
+Meeting ID：846-312-336"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

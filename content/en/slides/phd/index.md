@@ -72,6 +72,14 @@ slides:
 
 ---
 
+![image](phd-advisor-1.png)
+
+---
+
+![image](phd-advisor-2.png)
+
+---
+
 ### 申博时间线------联系导师
 
 - 2021年8月末开始邮件联系导师，持续到10月末

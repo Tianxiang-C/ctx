@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-academic/exampleSite
+module github.com/Tianxiang-C/ctx
 
 go 1.15
 

@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Tianxiang's Homepage" # Website name
-baseurl: 'https://cuitx.netlify.app/' # Website URL
+title: Tianxiang's Homepage # Website name
+baseURL: 'https://cuitx.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -25,10 +25,10 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
     - path: github.com/Tianxiang-C/wowchemy-widget-tracker
 
-backend:
-  name: git-gateway
-  repo: Tianxiang-C/ctx
-  branch: main
+# backend:
+#  name: git-gateway
+#  repo: Tianxiang-C/ctx
+#  branch: main
   
 ############################
 ## ADVANCED

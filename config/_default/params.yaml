@@ -107,8 +107,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
+    url: 'https://github.com/Tianxiang-C/ctx'
+    content_dir: content/en
     branch: master
   avatar:
     gravatar: false

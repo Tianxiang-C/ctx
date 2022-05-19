@@ -144,6 +144,10 @@ icon:
   pack:
     ai: true
     
+isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+    
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true

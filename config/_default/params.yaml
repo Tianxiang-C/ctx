@@ -140,9 +140,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-    
-[icon.pack]
-  ai = true
   
 security:
   # Allow frame for embedding speaker notes in slides

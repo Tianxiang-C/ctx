@@ -76,4 +76,4 @@ I also served as a part-time translator at [Chengdu Language Bridge Translation 
 
 In my leisure time, I enjoy reading, practicing calligraphy, listening to music, etc. You may learn more about my interests by visiting my [Bilibili](https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0) webpage.
 
-
+Using IP address of mainland China to open the site is not recommended, as you may encounter display problems (i.e., some academic icons such as CV, Google Scholar, ORCID and Researchgate will be missing; the filter funtion of my publications won't work).

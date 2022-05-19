@@ -1,6 +1,0 @@
-# IDE specific
-.idea/
-.vscode/
-
-# Hugo
-resources/

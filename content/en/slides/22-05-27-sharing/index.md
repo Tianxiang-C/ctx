@@ -133,6 +133,8 @@ slides:
 
 - 注意截止日期
 
+- 课外活动：量力而行
+
 - [关于北美申请](https://lijinzhang.com/post/2022-03-03-tutorial-phd-app/)
 
 - [关于教职](https://book.douban.com/subject/34960740/?dt_platform=wechat_friends&dt_dapp=1)

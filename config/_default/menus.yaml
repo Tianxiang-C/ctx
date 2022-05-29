@@ -19,15 +19,6 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Skills
-    url: skills
-    weight: 15
-  - name: Contact
-    url: '#contact'
-    weight: 70
-  - name: Topics
-    url: '#tags'
-    weight: 60
   - name: Experience
     url: '#experience'
     weight: 20

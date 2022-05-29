@@ -20,5 +20,5 @@ main:
     url: publication
     weight: 50
   - name: Experience
-    url: '/content/en/experience/' 
+    url: experience
     weight: 20

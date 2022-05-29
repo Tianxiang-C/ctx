@@ -1,10 +1,12 @@
 ---
 title: Experience
-type: page
+type: experience
 
 view: compact
 
 header:
   caption: ''
   image: ''
+  
+date_format: Jan 2006
 ---

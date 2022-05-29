@@ -44,24 +44,24 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-#  link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
-# - icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/Tianxiang-C
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
-# - icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0003-2826-1109
-# - icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Tianxiang-Cui-3
+- icon: cv
+  icon_pack: ai
+  link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Tianxiang-C
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2826-1109
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Tianxiang-Cui-3
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

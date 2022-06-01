@@ -37,7 +37,7 @@ image:
 publication: ""
 publication_short: ""
 publication_types:
-- "working paper"
+- "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: 

@@ -29,30 +29,13 @@ content:
   filters:
     folders:
       - project
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
-content:
   filter_button:
     - name: Journal article
       tag: Journal article
     - name: Conference paper
       tag: Conference paper
     - name: Working paper
-      tag: Preprint
-      
- 
+      tag: Preprint    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

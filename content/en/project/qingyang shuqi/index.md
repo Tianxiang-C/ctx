@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: "Relationships between retrospective parental feeding practices and Chinese university students’ current appetitive traits, weight status, and satisfaction with food-related life"
+summary: 
 tags:
   - Journal article
 categories:

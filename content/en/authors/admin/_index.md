@@ -56,12 +56,12 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
-# - icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0003-2826-1109
-# - icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Tianxiang-Cui-3
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2826-1109
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Tianxiang-Cui-3
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

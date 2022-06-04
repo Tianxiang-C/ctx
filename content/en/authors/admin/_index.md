@@ -58,7 +58,7 @@ social:
   link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
 - icon: bilibili
   icon_pack: fab
-  link: https://www.linkedin.com/in/tianxiang-c-0865a0192
+  link: https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2826-1109
@@ -75,6 +75,6 @@ highlight_name: true
 
 Welcome to my website! I'm CUI Tianxiang (崔天祥), a research assistant in [SCI-Cream Lab](https://sci-cream.netlify.app/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), working under Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works)'s supervision. In August 2022, I will begin my PhD studies in [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/).
 
-I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020 to 2021. One of the accomplishments was the translation (from English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which could be available on Chinese e-commerce platforms in 2023 (I've been a fan of Pokémon since primary school). In my leisure time, I enjoy reading, practicing calligraphy, listening to music, etc. You may learn more about my interests by visiting my [Bilibili](https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0) webpage.
+I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020 to 2021. One of the accomplishments was the translation (from English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which could be available on Chinese e-commerce platforms in 2023 (I've been a fan of Pokémon since primary school). In my leisure time, I enjoy reading, practicing calligraphy, listening to music, singing, etc.
 
 {{< icon name="download" pack="fas" >}} Access my [Curriculum Vitae](https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf).

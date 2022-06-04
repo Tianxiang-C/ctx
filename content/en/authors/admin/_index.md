@@ -56,6 +56,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fas
+  link: https://www.linkedin.com/in/tianxiang-c-0865a0192/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2826-1109

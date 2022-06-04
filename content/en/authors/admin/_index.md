@@ -47,6 +47,9 @@ social:
 # - icon: cv
 #  icon_pack: ai
 #  link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
+- icon: bilibili
+  icon_pack: fab
+  link: https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -56,9 +59,6 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=NvqtlScAAAAJ&hl=en
-- icon: bilibili
-  icon_pack: fab
-  link: https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2826-1109

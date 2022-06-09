@@ -46,8 +46,7 @@ tags:
 - muscle bias
 - stigma
 - muscle bias internalization
-title: "Body dissatisfaction and suicide-related behaviors in clinical and non-clinical samples:
-A meta-analysis of studies published in 1995–2021"
+title: "The Muscle Bias Internalization Scale: Development and Validation"
 url_code: 
 url_dataset: ''
 url_pdf: 

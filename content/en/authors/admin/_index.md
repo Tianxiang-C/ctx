@@ -77,4 +77,4 @@ Welcome to my website! I'm CUI Tianxiang (崔天祥), a research assistant in [S
 
 I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020 to 2021. One of the accomplishments was the translation (from English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which could be available on Chinese e-commerce platforms in 2023 (I've been a fan of Pokémon since primary school). In my leisure time, I enjoy reading, practicing calligraphy, listening to music, singing, etc.
 
-{{< icon name="download" pack="fas" >}} Access my [Curriculum Vitae](https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf).
+{{< icon name="download" pack="fas" >}} Access my Curriculum Vitae ([English Version](https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf) | [中文版](https://curly-muskmelon-d3b.notion.site/af849056f95b44ed85f174949e8bfb64)).

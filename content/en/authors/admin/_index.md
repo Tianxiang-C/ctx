@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my website! I'm CUI Tianxiang (崔天祥), a research assistant in [SCI-Cream Lab](https://sci-cream.netlify.app/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), working under Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works)'s supervision. In August 2022, I will begin my PhD studies in [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/).
+Welcome to my website! I'm CUI Tianxiang (崔天祥), a research assistant in [SCI-Cream Lab](https://sci-cream.netlify.app/) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), working under Prof. [HE Jinbo](https://scholar.google.com/citations?hl=zh-CN&user=16qDmvsAAAAJ&view_op=list_works)'s supervision. In August 2022, I will begin my PhD studies in [Department of Psychology](https://www.um.edu.mo/fss/psychology/) at [University of Macau](https://www.um.edu.mo/) (click [here](https://bbs.gter.net/forum.php?mod=viewthread&tid=2482389) to see my experience of PhD application).
 
 I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020 to 2021. One of the accomplishments was the translation (from English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which could be available on Chinese e-commerce platforms in 2023 (I've been a fan of Pokémon since primary school). In my leisure time, I enjoy reading, practicing calligraphy, listening to music, singing, etc.
 

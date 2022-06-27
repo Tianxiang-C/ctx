@@ -48,7 +48,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: https://github.com/Tianxiang-C/ctx/blob/main/content/en/slides/test.html
+slides: content/en/slides/test.md
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

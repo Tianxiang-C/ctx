@@ -52,7 +52,7 @@ social:
   link: https://space.bilibili.com/109130929?from=search&seid=14618659446338017529&spm_id_from=333.337.0.0
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:tianxiangcui@link.cuhk.edu.cn
 - icon: github
   icon_pack: fab
   link: https://github.com/Tianxiang-C

@@ -22,9 +22,9 @@ main:
   - name: Skills
     url: '#skills'
     weight: 15
-  - name: Contact
-    url: '#contact'
-    weight: 70
+  # - name: Contact
+  #  url: '#contact'
+  #  weight: 70
   - name: Topics
     url: '#tags'
     weight: 60

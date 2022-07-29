@@ -73,4 +73,4 @@ Welcome to my website! I'm CUI Tianxiang (崔天祥), a research assistant in [S
 
 I also served as a part-time translator at [Chengdu Language Bridge Translation Co.,Ltd.](https://www.lan-bridge.com/) from 2020 to 2021. One of the accomplishments was the translation (from English to Chinese) of [The Story of Pokémon](https://www.goodreads.com/en/book/show/58076959-the-story-of-pok-mon) in 2021, which could be available on Chinese e-commerce platforms in 2023 (I've been a fan of Pokémon since primary school). In my leisure time, I enjoy reading, practicing calligraphy, listening to music, singing, etc.
 
-{{< icon name="envelope" pack="fas" >}} tianxiangcui@link.cuhk.edu.cn; yc27313@umac.mo
+{{< icon name="envelope" pack="fas" >}} tianxiangcui@link.cuhk.edu.cn | yc27313@umac.mo

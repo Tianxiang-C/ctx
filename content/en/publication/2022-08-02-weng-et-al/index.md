@@ -1,37 +1,4 @@
 ---
-title: 'Exploring the bidirectional relationships between night eating, loss of control eating, and sleep quality in Chinese adolescents: A four-wave cross-lagged study'
-authors:
-  - WENG Hongbin
-  - Wesley R. BARNHART
-  - CHENG Yawei
-  - CHEN Gui
-  - admin
-  - Tom LU
-  - HE Jinbo
-author_notes:
-  - 
-  - 
-  -
-  -
-  -
-  - 'Corresponding author'
-  - 'Corresponding author'
-date: '2022-08-02T00:00:00Z'
-doi: '10.1002/eat.23800'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2020-09-24T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['2']
-
-# Publication name and optional abbreviated publication name.
-publication: '*International Journal of Eating Disorders*'
-publication_short: '*Int J Eat Disord*'
-
 abstract: "
 
 Objective: This study examined the bidirectional relationships between sleep quality, loss of
@@ -54,50 +21,55 @@ interrelated across time among Chinese adolescents. Improving sleep quality and 
 eating might be promising in the prevention of night eating in adolescents. Similarly, reducing
 night eating might be promising in improving sleep quality and reducing LOC eating in
 adolescents."
+author_notes:
+- 
+- 
+-
+-
+-
+- Corresponding author
+- Corresponding author
+authors:
+- WENG Hongbin
+- Wesley R. BARNHART
+- CHENG Yawei
+- CHEN Gui
+- admin
+- Tom LU
+- HE Jinbo
 
-# Summary. An optional shortened abstract.
-summary: 
-
-tags:
-  - night eating
-  - loss of control eating
-  - sleep quality
-  - adolescents
-  - longitudinal design
-  - Chinese
-
-
+date: '2022-08-02T00:00:00Z'
+doi: '10.1002/eat.23800'
 featured: false
-
-# links:
-  # - name: ""
-  #  url: ""
-url_pdf: 
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 projects: []
+publication: '*International Journal of Eating Disorders*'
+publication_short: '*Int J Eat Disord*'
+publication_types:
+- "2"
+publishDate: "2017-01-01T00:00:00Z"
+slides:
+summary:
+tags:
+- night eating
+- loss of control eating
+- sleep quality
+- adolescents
+- longitudinal design
+- Chinese
+title: "Exploring the bidirectional relationships between night eating, loss of control eating, and sleep quality in Chinese adolescents: A four-wave cross-lagged study"
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+url_code:
+url_dataset: ""
+url_pdf:
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 ---
+
+

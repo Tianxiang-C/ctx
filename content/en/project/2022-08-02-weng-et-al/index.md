@@ -17,8 +17,8 @@ authors:
 - HE Jinbo
 
 
-date: '2022-08-02T00:00:00Z'
-doi: '10.1002/eat.23800'
+date: "2022-08-02T00:00:00Z"
+doi: "10.1002/eat.23800"
 featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -33,6 +33,8 @@ publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary:
 tags:
+- Journal article
+categories:
 - night eating
 - loss of control eating
 - sleep quality

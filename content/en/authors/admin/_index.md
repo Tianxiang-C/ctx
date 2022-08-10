@@ -49,6 +49,7 @@ social:
 #  link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
 - icon: cv
   icon_pack: ai
+  link: https://curly-muskmelon-d3b.notion.site/CUI-Tianxiang-CV-dd0c4a9545814cbca3f5e77483221cdf
 - icon: github
   icon_pack: fab
   link: https://github.com/Tianxiang-C

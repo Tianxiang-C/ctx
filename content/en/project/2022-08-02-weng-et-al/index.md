@@ -25,8 +25,8 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*International Journal of Eating Disorders*'
-publication_short: '*Int J Eat Disord*'
+publication: '*International Journal of Eating Disorders*, 1-10'
+publication_short: '*Int J Eat Disord*, 1-10'
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"

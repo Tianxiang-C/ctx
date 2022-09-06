@@ -171,7 +171,7 @@ Presenter: CUI Tianxiang
 ## Limitations
 
 - Not feasible to examine preferences of blind and sighted men for a larger number of WHRs
-- Did not systematically manipulate somne variables
+- Did not systematically manipulate some variables
   - Hip size, waist size, and weight
 ---
 

@@ -22,12 +22,12 @@ Leader: CUI Tianxiang
 ---
 
 1. Are other negative emotions / behaviors that could positively affect romantic relationships? What could be the possible explanation?
-  a) Jealousy, mate guarding, etc.
+- Jealousy, mate guarding, etc.
 
 ---
 
 2. Are there other positive interventions that could have negative outcomes in romantic relationships? What could be the possible explanation?
-  - Hormonal contraceptives
+- Hormonal contraceptives
 
 ---
 

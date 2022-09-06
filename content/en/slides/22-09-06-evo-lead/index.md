@@ -32,13 +32,17 @@ Leader: CUI Tianxiang
 ---
 
 3. To what extent do you think the ovulatory effect could affect extramarital affairs?
+- A combination of evolutionary and biosocial perspectives?
+
 ---
 
 4. Are there other moderators or correlates that could be associated with or affect the relationship between fertility and desire for the variety of mating, especially in the Chinese context?
+- Features of the environment, Features of the current partner / relationship, etc.
 
 ---
 
 5. Are there any other sex differences in mate choice? Do you know any cultural differences in mate choice between different sexes?
+- Finacial prospects, physical attractiveness, etc.
 
 ---
 
@@ -46,14 +50,17 @@ Leader: CUI Tianxiang
 
 ---
 
-7. What do you think of sapiosexuality (智性恋) in people's mate choice? Is there sex differences in this preference?
-  - "Smart is the new sexy"
+![image](lead-fig.png)
 
+---
+
+7. What do you think of sapiosexuality (智性恋) in people's mate choice? Is there sex differences in this preference?
+- "Smart is the new sexy"
 
 ---
 
 8. What is your opinion on the relationship between the time of acquaintance and romantic relationships (e.g., a long time of acquaintance is associated with/leads to fewer chances to form romantic relationships)?
-  - "青梅竹马不敌天降"
+- "青梅竹马不敌天降"
 
 ---
 

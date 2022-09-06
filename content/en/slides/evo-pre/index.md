@@ -29,6 +29,7 @@ Presenter: CUI Tianxiang
 - Methods
 - Results
 - Discussion
+- Limitations
 
 ---
 
@@ -119,50 +120,51 @@ Presenter: CUI Tianxiang
 ### Results
 
 
-- 2021年10月份，两篇论文做出了初步结果（有摘要）
+- ANOVA
+  - The within-participants variable: the ratings for the two bodies with the different WHRs (0.70 and 0.84)
+  - Between-participants variables: group (blind, sighted, and blindfolded) and order of rating (first 0.70 versus first 0.84)
+  - A significant main effect of WHR
+  - No other significant effects (main effects of group, interactions of WHR with group, WHR with order, and the The three-way interaction between WHR, order, and group)
 
-- 2021年11月份，参加中国心理学会的会议
-
-  - 与期刊论文为同一篇；口头汇报
- 
-  - 符合期刊出版社的要求，且获得了会议负责人的同意
-
----
-
-### 申博时间线------正式申请
-
-- 2021年10月28日前
-
-  - 澳门大学
-
-- 2021年12月1日前
-
-  - 港校（港中文需要纸质材料；港浸会无法提交彩色材料，需要转换成黑白色）
-
-- 缴费：银联比较方便；港浸会可以用支付宝支付
 
 ---
 
-### 申博时间线------语言成绩
+### Results
 
-- 11月末考了雅思
+- Paired t tests within each group: significant effects of WHR
 
-  - 仅靠英文授课证明可能不够
-
-  - 最好再考一次语言成绩以增加优势（尤其是语言成绩过期了的话）
-
----
-
-### 感想与补充
-
-- 积极参与研究项目
-
-- 对于申请的导师需要了解更充分
-
-- 注意截止日期
-
-- [实验室公众号的推文](https://mp.weixin.qq.com/s/VuNvgwQ_eGvYmqNe4zsPtQ)
+  - Blind group, *d* = 0.68
+  - Sighted group, *d* = 1.33
+  - Blindfolded group, *d* = 0.54
 
 ---
 
-## 谢谢大家
+### Results
+
+Fig. 1. Average attractiveness ratings and standard error bars for the 0.70 and 0.84 WHRs for each group separately.
+
+---
+
+### Discussion
+
+- Visual input is not necessary for low WHR preferences
+- Visual input may have strengthened this preference among sighted men
+- Why do blind men develop a preference for low WHRs?
+  - Verbal information
+  - Generic psychological mechanisms / Prototypical stimuli
+  - Intrinsic factors
+
+
+---
+
+## Limitations
+
+- Not feasible to examine preferences of blind and sighted men for a larger number of WHRs
+- Did not systematically manipulate somne variables
+  - Hip size, waist size, and weight
+---
+
+## Thank you for your listening!
+
+
+---

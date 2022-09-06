@@ -141,7 +141,7 @@ Presenter: CUI Tianxiang
 
 ### Results
 
-- Paired t tests within each group: significant effects of WHR
+- Paired *t* tests within each group: significant effects of WHR
 
   - Blind group, *d* = 0.68
   - Sighted group, *d* = 1.33

@@ -37,7 +37,7 @@ Presenter: CUI Tianxiang
 
 - Males prefer females with a low waist-to-hip ratio (WHR)
   - An indication of health and fertility
-  - A characteristic of biological sex
+  - A biological characteristic
   - A psychological mechanism of responding to exaggerated features
 
 ---

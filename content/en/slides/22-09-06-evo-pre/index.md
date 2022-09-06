@@ -15,9 +15,9 @@ slides:
 
 ### Blind men prefer a low waist-to-hip ratio
 
-Authors: Johan C. KARREMANS, Willem E. FRANKENHUIS, Sander ARONS
+**Authors**: Johan C. KARREMANS, Willem E. FRANKENHUIS, Sander ARONS
 
-Presenter: CUI Tianxiang
+**Presenter**: CUI Tianxiang
 
 2022.09.06
 
@@ -73,11 +73,11 @@ Presenter: CUI Tianxiang
 ### Methods
 
 - Participants and design
-  - 19 congenitally blind men (27-72 years old, *M<sub>age</sub>* = 46.5, *SD* = 14.43)
+  - 19 **congenitally blind men** (27-72 years old, *M<sub>age</sub>* = 46.5, *SD* = 14.43)
     - 2 were excluded from data analysis
-  - 38 sighted men were randomly assigned
-    - 19 in the sighted condition (23-69 years old, *M<sub>age</sub>* = 45.4, *SD* = 14.90)
-    - 19 in the blindfolded condition (25-68 years old, *M<sub>age</sub>* = 44.5, *SD* = 14.75)
+  - 38 **sighted men** were randomly assigned
+    - 19 in the **sighted condition** (23-69 years old, *M<sub>age</sub>* = 45.4, *SD* = 14.90)
+    - 19 in the **blindfolded condition** (25-68 years old, *M<sub>age</sub>* = 44.5, *SD* = 14.75)
 
 ---
 
@@ -109,14 +109,14 @@ Presenter: CUI Tianxiang
 - Procedure and materials
   - The blind participants inspected the body and rated the attractiveness
     - The grade ranges from 1 to 10, with 10 representing very attractive and 1 very unattractive
-  - Participants in the sighted condition
+  - Participants in the **sighted condition**
     - Looked at the bodies and rate their attractiveness
 
 ---
 
 ### Methods
 - Procedure and materials
-  - Participants in the blindfolded condition
+  - Participants in the **blindfolded condition**
     - The same procedure as the blind participants
 
 
@@ -128,13 +128,14 @@ Presenter: CUI Tianxiang
 - ANOVA
   - The within-participants variable: the ratings for the two bodies with the different WHRs (0.70 and 0.84)
   - Between-participants variables: group (blind, sighted, and blindfolded) and order of rating (first 0.70 versus first 0.84)
-  - A significant main effect of WHR
+
 
 
 ---
 
 ### Results
 - ANOVA
+  - A significant main effect of WHR (participants overall preferred a lower WHR)
   - No other significant effects (main effects of group, interactions of WHR with group, WHR with order, and the The three-way interaction between WHR, order, and group)
 
 

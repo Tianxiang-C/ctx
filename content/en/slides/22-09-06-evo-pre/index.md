@@ -99,6 +99,7 @@ Presenter: CUI Tianxiang
   - Why 0.70 and 0.84 for WHRs?
     - In Western populations, attractiveness ratings generally peak at around 0.70
     - Average female WHRs in Western populations range from 0.76 up to 0.84
+    - Pilot study: normal range
 
 ---
 

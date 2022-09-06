@@ -141,6 +141,7 @@ Presenter: CUI Tianxiang
 
 ### Results
 
+![image](fig-1.jpg)
 Fig. 1. Average attractiveness ratings and standard error bars for the 0.70 and 0.84 WHRs for each group separately.
 
 ---

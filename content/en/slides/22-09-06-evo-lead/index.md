@@ -54,7 +54,7 @@ Leader: CUI Tianxiang
 
 ---
 
-7. What do you think of sapiosexuality (智性恋) in people's mate choice? Is there sex differences in this preference?
+7. What do you think of sapiosexuality (智性恋) in people's mate choice? Are there sex differences in this preference?
 - "Smart is the new sexy"
 
 ---

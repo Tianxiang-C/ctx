@@ -54,4 +54,4 @@ slides: 22-09-06-evo-lead
 #   Otherwise, set `projects = []`.
 #   projects:
 ---
-Week 3 discussion questions for SSGC8813 (SEMINAR IN SELECTED TOPICS IN PSYCHOLOGY)
+Week 3 discussion questions for PSYC8813 (Seminar in Selected Topics in Psychology). To be specific, the selected topic in autumn 2022 was Social Psychology of Close Relationships, instructed by Prof. [CHI Peilian](https://www.um.edu.mo/fss/psychology/staff_Peilian.html). The week 3 topic was Evolutionary Theories, and I was the discussion leader.

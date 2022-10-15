@@ -11,7 +11,7 @@ authors:
 - REN Yaoxiang
 - Jason M. NAGATA
 
-date: "2022-01-28T00:00:00Z"
+date: "2022-09-26T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -23,24 +23,20 @@ image:
 #   url: http://example.org
 # projects:
 # - internal-project
-publication: ""
-publication_short: ""
+publication: "10.1016/j.bodyim.2022.09.013"
+publication_short: "*Body Image, 43* 326-336"
 publication_types:
-- "3"
+- "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: 
 tags:
-- Preprint
-- internalized bias
-- muscle bias
-- stigma
-- muscle bias internalization
+- Journal article
 categories:
 - internalized bias
-- muscle bias
-- stigma
-- muscle bias internalization
+- muscularity bias
+- self-stigma
+- muscularity bias internalization
 title: "The Muscle Bias Internalization Scale: Development and Validation"
 url_code: 
 url_dataset: ''
@@ -51,13 +47,4 @@ url_slides: ""
 url_source: ''
 url_video: ''
 ---
-**Objective**: The present study developed a 15-item Muscle Bias Internalization Scale (MBIS) which measures the extent to which men endorse muscle-based stereotypes and negative self-evaluations due to muscle mass. 
-
-
-**Methods**: Two independent samples were recruited online at different time points. The first sample consisted of 300 adult men, with a mean age of 29.98 (*SD* = 7.81) years and a mean BMI of 22.75 (*SD* = 2.56) kg/m2. The second sample also contained 300 adult men who had a mean age of 29.5 (*SD* = 7.50) years and a mean BMI of 23.06 (*SD* = 2.59) kg/m2. Exploratory factor analysis (EFA) was used in the first sample to explore the factor structure of the MBIS. Confirmatory factor analysis (CFA) was used in the second sample to confirm the factor structure of the MBIS derived from EFA. Within the second sample, reliability and validity of the MBIS were also explored.
-
-
-**Results**: The MBIS showed a three-factor structure in EFA, which was confirmed in CFA with good model fit. The total scale score of the MBIS showed high internal consistency reliability (*α* = .94) and high two-week test-retest reliability (ICC = .86). The MBIS also demonstrated construct validity by presenting significant correlations with theoretically related constructs (e.g., weight bias internalization and muscularity-oriented body image and eating disturbances).
-
-
-**Conclusion**: The newly developed MBIS can be a valuable and promising tool for assessing muscle bias in men. It may help understand the role of such perception biases in the development and maintenance of muscularity-oriented body image and eating disturbances.
+The present study developed the Muscularity Bias Internalization Scale (MBIS), a measure of muscularity bias internalization, which assesses the extent to which an individual endorses muscularity-based stereotypes and engages in negative self-evaluations due to muscularity. In Study 1, a pool of candidate items was developed. By using exploratory factor analysis (EFA) on a sample of 300 Chinese adult men (M<SUB>*age*</SUB> = 29.98 years, *SD* = 7.81), 14 items from the item pool were retained. The 14-item MBIS contained three factors. In Study 2, the second sample of 300 Chinese adult men (M<SUB>*age*</SUB> = 29.50 years, *SD* = 7.50) was used to confirm the factor structure of the MBIS, as well as to examine its reliability and validity. Confirmatory factor analysis (CFA) further confirmed the three-factor structure of the MBIS with a good model fit. The MBIS showed high internal consistency reliability and high two-week test-retest reliability. The MBIS also showed good construct validity with measures of drive for muscularity, muscularity-oriented disordered eating, and muscle dysmorphia symptoms. The newly developed MBIS may help understand the role of muscularity bias internalization in the development and maintenance of muscularity-oriented body image and muscularity-oriented disordered eating.

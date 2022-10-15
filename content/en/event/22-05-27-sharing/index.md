@@ -45,3 +45,4 @@ slides: 22-05-27-sharing
 #   Otherwise, set `projects = []`.
 #   projects:
 ---
+跟上一版的分享内容基本一致，略有删减（为了加快节奏）。

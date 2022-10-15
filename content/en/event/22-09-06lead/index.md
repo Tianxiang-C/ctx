@@ -54,3 +54,4 @@ slides: 22-09-06-evo-lead
 #   Otherwise, set `projects = []`.
 #   projects:
 ---
+Week 3 discussion questions for SSGC8813 (SEMINAR IN SELECTED TOPICS IN PSYCHOLOGY)

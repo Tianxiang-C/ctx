@@ -1,7 +1,7 @@
 ---
-title: "Examining Appearance Pressures and Comparisons as Correlates of Drive for Muscularity and Thinness-Oriented Disordered Eating in Chinese Heterosexual Men and Women: Testing an Integrated Model"
+title: "Examining Appearance Pressures, Thinness and Muscularity Internalizations, and Social Comparisons as Correlates of Drive for Muscularity and Thinness-Oriented Disordered Eating in Chinese Heterosexual Men and Women: Testing an Integrated Model"
 tags:
-- Preprint
+- Journal Article
 categories:
 - body image
 - drive for muscularity
@@ -11,7 +11,7 @@ categories:
 - heterosexual
 - Chinese
 - adults
-date: "2022-04-09T00:00:00Z"
+date: "2022-10-13T00:00:00Z"
 
 author_notes:
 -

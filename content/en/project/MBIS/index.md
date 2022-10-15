@@ -23,7 +23,7 @@ image:
 #   url: http://example.org
 # projects:
 # - internal-project
-publication: "*Body Image, 43* 326-336"
+publication: "*Body Image, 43*, 326-336"
 publication_short: ""
 publication_types:
 - "1"

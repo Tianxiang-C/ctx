@@ -12,7 +12,7 @@ authors:
 - Jason M. NAGATA
 
 date: "2022-09-26T00:00:00Z"
-doi: ""
+doi: "10.1016/j.bodyim.2022.09.013"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -23,8 +23,8 @@ image:
 #   url: http://example.org
 # projects:
 # - internal-project
-publication: "10.1016/j.bodyim.2022.09.013"
-publication_short: "*Body Image, 43* 326-336"
+publication: "*Body Image, 43* 326-336"
+publication_short: ""
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"

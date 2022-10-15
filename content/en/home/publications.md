@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications & Manuscripts
+title: Publications
 subtitle: ''
 
 content:
@@ -30,12 +30,10 @@ content:
     folders:
       - project
   filter_button:
-    - name: Journal article
+    - name: Journal articles
       tag: Journal article
-    - name: Conference paper
-      tag: Conference paper
-    - name: Working paper
-      tag: Preprint    
+    - name: Conference papers
+      tag: Conference paper    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

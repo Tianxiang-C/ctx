@@ -1,7 +1,7 @@
 ---
 title: "Examining Appearance Pressures, Thinness and Muscularity Internalizations, and Social Comparisons as Correlates of Drive for Muscularity and Thinness-Oriented Disordered Eating in Chinese Heterosexual Men and Women: Testing an Integrated Model"
 tags:
-- Journal Article
+- Journal article
 categories:
 - body image
 - drive for muscularity
@@ -12,7 +12,19 @@ categories:
 - Chinese
 - adults
 date: "2022-10-13T00:00:00Z"
-
+doi: ""
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+# links:
+# - name: Custom Link
+#   url: http://example.org
+# projects:
+# - internal-project
+publication: "*Body Image*"
+publication_short: ""
 author_notes:
 -
 -

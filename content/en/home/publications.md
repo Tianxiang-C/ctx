@@ -13,7 +13,6 @@ title: Publications
 subtitle: ''
 
 content:
-  count: 3
   # Page type to display. E.g. project.
   page_type: project
   
@@ -34,7 +33,8 @@ content:
     - name: Journal articles
       tag: Journal article
     - name: Conference papers
-      tag: Conference paper    
+      tag: Conference paper   
+  count: 3
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

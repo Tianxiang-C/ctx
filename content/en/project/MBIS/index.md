@@ -37,7 +37,7 @@ categories:
 - muscularity bias
 - self-stigma
 - muscularity bias internalization
-title: "The Muscle Bias Internalization Scale: Development and Validation"
+title: "The Muscularity Bias Internalization Scale: Development and initial validation in Chinese adult men"
 url_code: 
 url_dataset: ''
 url_pdf: 

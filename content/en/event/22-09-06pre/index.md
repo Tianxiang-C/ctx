@@ -54,3 +54,4 @@ slides: 22-09-06-evo-pre
 #   Otherwise, set `projects = []`.
 #   projects:
 ---
+The first presentation in PSYC8813. Click [here](https://doi.org/10.1016/j.evolhumbehav.2009.10.001) to read the original article.

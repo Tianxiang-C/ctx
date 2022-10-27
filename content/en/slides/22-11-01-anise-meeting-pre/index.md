@@ -130,6 +130,7 @@ between-study variance
 ### Outliers
 - Baujat plots and influential case diagnostics
 - A pooled effect size with outliers excluded
+- Forest plot for the effect sizes
 ### heterogeneity among effect sizes
 - Q statistics (*p* < .05) indicate a significant heterogeneity
 - Meta-regression analyses of potential moderators (age, region, data source, etc.)
@@ -145,12 +146,4 @@ between-study variance
 
 
 ---
-
-### Limitations
-
-- Not feasible to examine preferences of blind and sighted men for a larger number of WHRs
-- Did not systematically manipulate some variables
-  - Hip size, waist size, and weight
----
-
 ### Thank you for your listening!

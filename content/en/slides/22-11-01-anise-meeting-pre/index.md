@@ -37,70 +37,58 @@ slides:
 ---
 
 ### Keywords
-
 - Refer to previous meta-analyses
+![image](fig-1.png)
+
+---
+### Keywords
+- Use "\*" when variations are needed (e.g., therap* includes therapy, therapies, theraputic, etc.)
+- Use "" to include pharses (e.g., "body image")
+- Use "AND" and "OR" correctly
+![image](fig-2.png)
+---
+### Databases
+
+- PsycINFO, Web of Science, PubMed, and ProQuest Dissertations & Theses (PQDT)
+  - Focus on title and abstract
+  - Export the records (with abstract) to files (RIS / Bibtex...) that can be imported to the reference manager (Zotero / Endnote / Mendeley ...)
+- Supplementary: Google Scholar
+
+---
+### Records
+
+- Remove duplicates (Zotero seems to work better, but is not perfect)
+- Screen title and abstract of the literature by yourself or cooperate with another student (create a shared library or export half of the literature)
+- Download potentially qualified articles
+
+---
+### Selection Criteria
+- General inclusion criteria & exclusion criteria
+  - Include English articles, exclude review articles and qualitative studies...
+- Specific criteria
+  - Depend on the topic
+
+---
+### Selection Criteria
+
+- English articles only
+  - Language restrictions won’t lead to systematic bias (Morrison et al., 2012).
+- Unpublished articles (dissertations)
+  - Rare overestimating treatment effect (Schmucker et al., 2017)
+  - “Time, effort and cost”
+  - Easy access, low bias and complete demonstration of findings (Moyer et al., 2010)
+  - A better representation of missing study (Ferguson & Brannick, 2012)
 
 ---
 
-### Introduction
-
-- The role of visual input in the preference for low WHR
-  - Visual learning: the feature of low WHR
-  - Children's observation
-  - The influence of Western media
-
+### Record Important Information 
+- Search results
+  - Keywords and references
+  - Time period (you may need to search literature twice or even three times)
+  - Number of articles (total, after removing duplicates, after checking titles and abstracts, after checking the full texts)
 ---
-
-### Introduction
-
-- What about congenitally blind men?
-  - Lack the preference for low WHR (no visual experience)
-  - Have a less pronounced preference for low WHR than sighted men
-  - Exhibit a preference for low WHR as strong as their sighted counterparts
-
----
-
-### Methods
-
-- Participants and design
-  - 19 **congenitally blind men** (27-72 years old, *M<sub>age</sub>* = 46.5, *SD* = 14.43)
-    - 2 were excluded from data analysis
-  - 38 **sighted men** were randomly assigned
-    - 19 in the **sighted condition** (23-69 years old, *M<sub>age</sub>* = 45.4, *SD* = 14.90)
-    - 19 in the **blindfolded condition** (25-68 years old, *M<sub>age</sub>* = 44.5, *SD* = 14.75)
-
----
-
-### Methods
-
-- Procedure and materials
-  - The experiment was conducted inside a van
-  - Two female mannequin dolls
-    - Identical in dressing, differ in WHR (0.70 and 0.84)
-    - Similar volumes
-    - BMI is a irrelavant variable
-
-
----
-
-### Methods
-
-- Procedure and materials
-  - Why 0.70 and 0.84 for WHRs?
-    - In Western populations, attractiveness ratings generally peak at around 0.70
-    - Average female WHRs in Western populations range from 0.76 up to 0.84
-    - Pilot study: normal range
-
----
-
-### Methods
-
-
-- Procedure and materials
-  - The blind participants inspected the body and rated the attractiveness
-    - The grade ranges from 1 to 10, with 10 representing very attractive and 1 very unattractive
-  - Participants in the **sighted condition**
-    - Looked at the bodies and rate their attractiveness
+### Flow Diagram
+![image](fig-3.jpg)
 
 ---
 

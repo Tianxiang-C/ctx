@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-### An Introduction to Doing Meta-analysis
+### A Few Notes on Doing Meta-analysis
 
-**Presenter**: CUI Tianxiang
+CUI Tianxiang
 
 2022.11.01
 
@@ -86,63 +86,62 @@ slides:
   - Keywords and references
   - Time period (you may need to search literature twice or even three times)
   - Number of articles (total, after removing duplicates, after checking titles and abstracts, after checking the full texts)
+- Google Scholar and included articles (check the references)
 ---
 ### Flow Diagram
 ![image](fig-3.jpg)
 
 ---
-
-### Methods
-- Procedure and materials
-  - Participants in the **blindfolded condition**
-    - The same procedure as the blind participants
-
-
----
-
-### Results
-
-
-- ANOVA
-  - The within-participants variable: the ratings for the two bodies with the different WHRs (0.70 and 0.84)
-  - Between-participants variables: group (blind, sighted, and blindfolded) and order of rating (first 0.70 versus first 0.84)
-
-
+### Coding
+- Author (s) & year
+- Publication year
+- Publication type
+- Country / region
+- Mean age
+- Study design
+- Effect size & standard error
+- ...
 
 ---
 
-### Results
-- ANOVA
-  - A significant main effect of WHR (participants overall preferred a lower WHR)
-  - No other significant effects (main effects of group, interactions of WHR with group, WHR with order, and the The three-way interaction between WHR, order, and group)
-
-
----
-
-### Results
-
-- Paired *t* tests within each group: significant effects of WHR
-
-  - Blind group, *d* = 0.68
-  - Sighted group, *d* = 1.33
-  - Blindfolded group, *d* = 0.54
+### Effect Size
+- [Ellis, 2010](https://www.cambridge.org/core/books/essential-guide-to-effect-sizes/72C26CA99366A19CAC4EF5B16AE3297F) (accessible at UM)
+- [Practical Meta-Analysis Effect Size Calculator](https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-Home.php)
+- [Effect size converter](https://www.escal.site/)
 
 ---
 
-### Results
+### Inter-coder Reliability
+- Two coders (code independently then discuss)
+- [Krippendorff’s alpha](http://mdcw.socsci.uva.nl/?p=57) (≥ .800)
+### Quality Assessment
+- Refer to previous studies when choosing tools
+- Two coders (code independently then discuss)
 
-![image](fig-1.jpg)
+---
+### Data Analysis
+- R & *metafor*
+- Consider a three-level meta-analysis when single study is likely to contain multiple effect sizes
+  - Heterogeneity from three levels of variance: the sampling variance of effect sizes, within-study variance, and the
+between-study variance
+  - [Assink & Wibbelink, 2016](https://doi.org/10.20982/tqmp.12.3.p154)
+
+---
+### Outliers
+- Baujat plots and influential case diagnostics
+- A pooled effect size with outliers excluded
+### heterogeneity among effect sizes
+- Q statistics (*p* < .05) indicate a significant heterogeneity
+- Meta-regression analyses of potential moderators (age, region, data source, etc.)
+  - For continuous variables, at least 10 effect sizes
+  - For categorical variables, at least 3 effect sizes for the subgroup of a variable
 
 ---
 
-### Discussion
+### Publication Bias
 
-- Visual input is not necessary for low WHR preferences
-- Visual input may have strengthened this preference among sighted men
-- Why do blind men develop a preference for low WHRs?
-  - Verbal information
-  - Generic psychological mechanisms / Prototypical stimuli
-  - Intrinsic factors
+- Funnel plots
+- The *p*-uniform* method
 
 
 ---

@@ -30,8 +30,11 @@ CUI Tianxiang
 ### Topic
 
 - The relationship between two constructs
+
 - The effect of an intervention
+
 - The structure of a model
+
 - ...
 
 ---

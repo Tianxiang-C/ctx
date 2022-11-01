@@ -144,10 +144,15 @@ CUI Tianxiang
 ---
 
 ### Inter-coder Reliability
+
 - Two coders (code independently then discuss)
+
 - [Krippendorff’s alpha](http://mdcw.socsci.uva.nl/?p=57) (≥ .800)
+
 ### Quality Assessment
+
 - Refer to previous studies when choosing tools
+
 - Two coders (code independently then discuss)
 
 ---

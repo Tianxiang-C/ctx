@@ -116,14 +116,17 @@ CUI Tianxiang
 - Country / region
 - Mean age
 - Study design
-- Effect size & standard error
+- Effect size & variance
 - ...
 
 ---
 
 ### Effect Size
+
 - [Ellis, 2010](https://www.cambridge.org/core/books/essential-guide-to-effect-sizes/72C26CA99366A19CAC4EF5B16AE3297F) (accessible at UM)
+
 - [Practical Meta-Analysis Effect Size Calculator](https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-Home.php)
+
 - [Effect size converter](https://www.escal.site/)
 
 ---
@@ -144,14 +147,25 @@ between-study variance
   - [Assink & Wibbelink, 2016](https://doi.org/10.20982/tqmp.12.3.p154)
 
 ---
-### Outliers
+
+### Outliers & Pooled effect sizes
+
 - Baujat plots and influential case diagnostics
+
 - A pooled effect size with outliers excluded
+
 - Forest plot for the effect sizes
+
+---
+
 ### heterogeneity among effect sizes
+
 - Q statistics (*p* < .05) indicate a significant heterogeneity
+
 - Meta-regression analyses of potential moderators (age, region, data source, etc.)
+  
   - For continuous variables, at least 10 effect sizes
+  
   - For categorical variables, at least 3 effect sizes for the subgroup of a variable
 
 ---

@@ -77,6 +77,10 @@ CUI Tianxiang
 - Supplementary: Google Scholar
 
 ---
+
+![image](keywords.png)
+
+---
 ### Records
 
 - Remove duplicates (Zotero seems to work better, but is not perfect)

@@ -50,9 +50,15 @@ CUI Tianxiang
 
 ---
 ### Keywords
+
 - Use "\*" when variations are needed (e.g., therap* includes therapy, therapies, theraputic, etc.)
+
 - Use "" to include pharses (e.g., "body image")
+
 - Use "AND" and "OR" correctly
+
+---
+### Keywords
 ![image](fig-2.png)
 ---
 ### Databases
@@ -86,7 +92,6 @@ CUI Tianxiang
 - English articles only
   - Language restrictions won’t lead to systematic bias (Morrison et al., 2012).
 - Unpublished articles (dissertations)
-  - Rare overestimating treatment effect (Schmucker et al., 2017)
   - “Time, effort and cost”
   - Easy access, low bias and complete demonstration of findings (Moyer et al., 2010)
   - A better representation of missing study (Ferguson & Brannick, 2012)

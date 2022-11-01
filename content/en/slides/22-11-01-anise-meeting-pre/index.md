@@ -158,7 +158,7 @@ CUI Tianxiang
 ---
 ### Data Analysis
 - R & *metafor*
-- Consider a three-level meta-analysis when single study is likely to contain multiple effect sizes
+- Consider a three-level meta-analysis when a single study is likely to contain multiple effect sizes
   - Heterogeneity from three levels of variance: the sampling variance of effect sizes, within-study variance, and the
 between-study variance
   - [Assink & Wibbelink, 2016](https://doi.org/10.20982/tqmp.12.3.p154)

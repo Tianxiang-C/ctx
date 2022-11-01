@@ -58,8 +58,11 @@ CUI Tianxiang
 - Use "AND" and "OR" correctly
 
 ---
+
 ![image](fig-2.png)
+
 ---
+
 ### Databases
 
 - PsycINFO, Web of Science, PubMed, Scopus, and ProQuest Dissertations & Theses (PQDT)

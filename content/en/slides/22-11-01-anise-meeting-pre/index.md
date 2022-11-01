@@ -173,8 +173,8 @@ between-study variance
 ### Publication Bias
 
 - Funnel plots
-- The *p*-uniform* method
 
+- The *p*-uniform* method
 
 ---
 ### Thank you for your listening!

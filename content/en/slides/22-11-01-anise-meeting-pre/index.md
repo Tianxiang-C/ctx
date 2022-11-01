@@ -170,6 +170,10 @@ between-study variance
 
 ---
 
+![image](forest-plot.png)
+
+---
+
 ### heterogeneity among effect sizes
 
 - Q statistics (*p* < .05) indicate a significant heterogeneity

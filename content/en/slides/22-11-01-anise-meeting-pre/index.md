@@ -102,11 +102,11 @@ CUI Tianxiang
 ### Selection Criteria
 
 - English articles only
-  - Language restrictions won’t lead to systematic bias
+  - Language restrictions won’t lead to systematic bias ([Morrison et al., 2012](https://doi.org/10.1017/S0266462312000086))
 - Unpublished articles (dissertations)
   - “Time, effort and cost”
-  - Easy access, low bias and complete demonstration of findings
-  - A better representation of missing study
+  - Easy access, low bias and complete demonstration of findings ([Moyer et al., 2010](https://doi.org/10.1002/pon.1561))
+  - A better representation of missing study ([Ferguson & Brannick, 2012](https://psycnet.apa.org/doi/10.1037/a0024445))
 
 ---
 

@@ -181,7 +181,7 @@ between-study variance
 
 ### heterogeneity among effect sizes
 
-- Q statistics (*p* < .05) indicate a significant heterogeneity
+- *Q* statistics (*p* < .05) indicate a significant heterogeneity
 
 - Meta-regression analyses of potential moderators (age, region, data source, etc.)
   

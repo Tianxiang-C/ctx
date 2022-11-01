@@ -185,7 +185,7 @@ between-study variance
 
 - Meta-regression analyses of potential moderators (age, region, data source, etc.)
   
-  - For continuous variables, at least 10 effect sizes
+  - For continuous variables, at least 10 effect sizes ([Higgins et al., 2019](https://doi.org/10.1002/9781119536604))
   
   - For categorical variables, at least 3 effect sizes for the subgroup of a variable
 

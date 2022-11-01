@@ -74,7 +74,7 @@ CUI Tianxiang
 - PsycINFO, Web of Science, PubMed, Scopus, and ProQuest Dissertations & Theses (PQDT)
   - Focus on title and abstract
   - Records (with abstract) → files (RIS / Bibtex...) → reference manager (Zotero / Endnote / Mendeley ...)
-- Supplementary: Google Scholar
+- Google Scholar and included articles (check the references)
 
 ---
 
@@ -115,7 +115,7 @@ CUI Tianxiang
   - Keywords and references
   - Time period (you may need to search literature twice or even three times)
   - Number of articles (total, after removing duplicates, after checking titles and abstracts, after checking the full texts)
-- Google Scholar and included articles (check the references)
+
 ---
 ### Flow Diagram
 ![image](fig-3.jpg)

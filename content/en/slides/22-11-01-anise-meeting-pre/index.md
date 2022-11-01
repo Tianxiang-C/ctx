@@ -25,6 +25,12 @@ CUI Tianxiang
 
 ### Contents
 
+- Intro
+
+- Preparations
+
+- Data Analysis
+
 ---
 ### A Brief Intro
 
@@ -92,11 +98,11 @@ CUI Tianxiang
 ### Selection Criteria
 
 - English articles only
-  - Language restrictions won’t lead to systematic bias (Morrison et al., 2012).
+  - Language restrictions won’t lead to systematic bias
 - Unpublished articles (dissertations)
   - “Time, effort and cost”
-  - Easy access, low bias and complete demonstration of findings (Moyer et al., 2010)
-  - A better representation of missing study (Ferguson & Brannick, 2012)
+  - Easy access, low bias and complete demonstration of findings
+  - A better representation of missing study
 
 ---
 

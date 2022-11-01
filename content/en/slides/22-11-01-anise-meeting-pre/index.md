@@ -25,7 +25,10 @@ CUI Tianxiang
 
 ### Contents
 
+---
+### A Brief Intro
 
+"To perform a meta-analysis we compute an effect size and variance for each study, and then compute a weighted mean of these effect sizes." ([Borenstein et al., 2009](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386))
 
 ---
 
@@ -54,9 +57,9 @@ CUI Tianxiang
 ---
 ### Databases
 
-- PsycINFO, Web of Science, PubMed, and ProQuest Dissertations & Theses (PQDT)
+- PsycINFO, Web of Science, PubMed, Scopus, and ProQuest Dissertations & Theses (PQDT)
   - Focus on title and abstract
-  - Export the records (with abstract) to files (RIS / Bibtex...) that can be imported to the reference manager (Zotero / Endnote / Mendeley ...)
+  - Records (with abstract) → files (RIS / Bibtex...) → reference manager (Zotero / Endnote / Mendeley ...)
 - Supplementary: Google Scholar
 
 ---
@@ -68,9 +71,13 @@ CUI Tianxiang
 
 ---
 ### Selection Criteria
+
 - General inclusion criteria & exclusion criteria
+
   - Include English articles, exclude review articles and qualitative studies...
+
 - Specific criteria
+
   - Depend on the topic
 
 ---

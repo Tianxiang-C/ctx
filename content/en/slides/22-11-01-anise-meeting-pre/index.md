@@ -58,7 +58,6 @@ CUI Tianxiang
 - Use "AND" and "OR" correctly
 
 ---
-### Keywords
 ![image](fig-2.png)
 ---
 ### Databases

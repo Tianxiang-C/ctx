@@ -1,5 +1,5 @@
 ---
-title: "Pre-meta-Anise-meeting-22-10"
+title: "Pre-meta-Anise-meeting-22-11"
 
 event:
 event_url: 
@@ -14,8 +14,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-27T15:00:00Z'
-date_end: '2022-10-27T16:00:00Z'
+date: '2022-11-01T12:00:00Z'
+date_end: '2022-11-01T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

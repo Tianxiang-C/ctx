@@ -41,7 +41,7 @@ title: "The Relationship between Music and Food Intake: A Systematic Review and 
 
 url_code:
 url_dataset: ""
-url_pdf: uploads/202107-music-food-meta.pdf
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

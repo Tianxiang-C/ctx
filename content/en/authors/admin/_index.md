@@ -65,6 +65,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tianxiang-Cui-3
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/TianxiangCui
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

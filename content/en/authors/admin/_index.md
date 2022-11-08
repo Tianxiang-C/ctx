@@ -6,7 +6,7 @@ title: CUI Tianxiang
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -8,9 +8,7 @@ toc: true
 ---
 # R
 
-- statistical analysis
-- rmarkdown
-- blogdown
+- statistical analysis (lavaan, psych, metafor, etc.)
 - ...
 
 # Language

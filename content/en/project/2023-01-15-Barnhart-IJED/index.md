@@ -12,7 +12,7 @@ categories:
 - adolescents
 - Chinese
 date: "2023-01-15T00:00:00Z"
-doi: ""
+doi: "10.1002/eat.23904"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'

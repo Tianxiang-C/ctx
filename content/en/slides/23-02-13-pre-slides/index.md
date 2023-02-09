@@ -37,7 +37,7 @@ Cui Tianxiang (崔天祥)
 
 ---
 
-### What are its main claims or contributions?
+### What are its main contributions?
 
 - All social axioms are relatively stable across time. Social cynicism, reward for applications, and school belonging are the most salient predictors for flourishing among Chinese university students.
 
@@ -46,7 +46,7 @@ Cui Tianxiang (崔天祥)
 ### the research has been cited by...
 
 - Chan & Tam, 2021. Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
-  - Implication: Social axioms are relatively stable over time and cannot easily be changed. Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (*r*s ranged from 0.39 to 0.62; Li, Tong, Tao, Zhang, & Wu, 2020).
+  - Implication: Social axioms are relatively stable over time and cannot easily be changed. Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
  
 ---
 ### the research has been cited by...

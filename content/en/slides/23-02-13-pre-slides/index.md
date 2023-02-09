@@ -44,17 +44,17 @@ Cui Tianxiang (崔天祥)
 ---
 ### the research has been cited by...
 - Chan & Tam, 2021. Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
-  - Implication: Social axioms are relatively stable over time and cannot easily be changed. Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
+  - Implication: Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
 ---
-### Purpose of the citation
+#### Purpose of the citation
 - To emphasize the stability of social axioms by nature, and changing them take effort and time
-### the relative impact
+#### the relative impact
 - Contributed to evidence for the relative stability of social axioms
 ---
 ### the research has been cited by...
 
 - Dixson & Gentzis, 2021. To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
-  - Implications: school belonging has been found to be an influential construct within the school context, with previous studies indicating that it longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
+  - Introduction: school belonging has been found to be an influential construct within the school context, with previous studies indicating that it longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
 ---
 ### Purpose of the citation
 - To 

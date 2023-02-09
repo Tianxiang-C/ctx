@@ -43,10 +43,10 @@ Cui Tianxiang (崔天祥)
 
 ---
 ### the research has been cited by...
-- Chan & Tam, 2021. Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
+- Chan & Tam (2021). Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
   - Implication: Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
 ---
-### Chan & Tam, 2021
+### Chan & Tam (2021)
 - Purpose of the citation
   - To emphasize the stability of social axioms by nature, and changing them take effort and time
 - The relative impact
@@ -54,10 +54,10 @@ Cui Tianxiang (崔天祥)
 ---
 ### the research has been cited by...
 
-- Dixson & Gentzis, 2021. To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
+- Dixson & Gentzis (2021). To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
   - Introduction: school belonging...longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
 ---
-### Dixson & Gentzis, 2021
+### Dixson & Gentzis (2021)
 - Purpose of the citation
   - To claim that school belonging is an influential construct within the school context (e.g., associated with student's well-being)
 - The relative impact
@@ -65,11 +65,11 @@ Cui Tianxiang (崔天祥)
 ---
 ### the research has been cited by...
 
-- Luna-Sánchez et al., 2022. Social Axioms Mediate Gender Differences in Gender Ideologies Among Guatemalan University Students. *Journal of Cross-Cultural Psychology*.
+- Luna-Sánchez et al. (2022). Social Axioms Mediate Gender Differences in Gender Ideologies Among Guatemalan University Students. *Journal of Cross-Cultural Psychology*.
   - Implications: social justice objective can be furthered by reducing cynicism and fate control in society.Both...are associated with...less flourishing (Li et al., 2020).
 
 ---
-### Luna-Sánchez et al., 2022
+### Luna-Sánchez et al. (2022)
 - Purpose of the citation
   - To emphasize the importance of reducing cynicism and fate control for more flourishing
 - The relative impact
@@ -77,22 +77,22 @@ Cui Tianxiang (崔天祥)
 ---
 ### the research has been cited by...
 
-- Yao et al., 2022. Self-support and loneliness among Chinese primary school students: a moderated mediation model. *Frontiers in Psychology*.
+- Yao et al. (2022). Self-support and loneliness among Chinese primary school students: a moderated mediation model. *Frontiers in Psychology*.
   - Discussion: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
 
 ---
-### Yao et al., 2022
+### Yao et al. (2022)
 - Purpose of the citation
   - Doubtful. Didn't find relevant conclusions
 
 ---
 ### the research has been cited by...
 
-- Younas et al., 2021. What Makes Women Social Cynics? An Exploratory Study. *Journal of Professional & Applied Psychology*.
+- Younas et al. (2021). What Makes Women Social Cynics? An Exploratory Study. *Journal of Professional & Applied Psychology*.
   - Introduction: higher levels of social cynicism predicted lower levels of school belonging in university students (Li et al., 2020).
 
 ---
-### Younas et al., 2021
+### Younas et al. (2021)
 - Purpose of the citation
   - To illustrate the negative effects of cynicism on students
 - The relative impact
@@ -101,7 +101,7 @@ Cui Tianxiang (崔天祥)
 ---
 ### a brief summary
 
-Li et al. (2020) invetigated several research questions (i.e., the stability of social axioms, and the relationship between social axioms, school belonging, and flourishing), and the conclusions it draw have been cited for different purposes in the following articles.
+- Li et al. (2020) invetigated several research questions (i.e., the stability of social axioms, and the relationship between social axioms, school belonging, and flourishing), and the conclusions it draw have been cited for different purposes in the following articles.
 
 ---
 ### Thank you for your listening!

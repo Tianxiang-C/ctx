@@ -42,22 +42,22 @@ Cui Tianxiang (崔天祥)
 - All social axioms are relatively stable across time. Social cynicism, reward for applications, and school belonging are the most salient predictors for flourishing among Chinese university students.
 
 ---
-
 ### the research has been cited by...
-
 - Chan & Tam, 2021. Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
   - Implication: Social axioms are relatively stable over time and cannot easily be changed. Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
- 
 ---
 ### Purpose of the citation
-
+- To emphasize the stability of social axioms by nature, and changing them take effort and time
+### the relative impact
+- Contributed to evidence for the relative stability of social axioms
 ---
 ### the research has been cited by...
 
 - Dixson & Gentzis, 2021. To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
-  - Implications: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
+  - Implications: school belonging has been found to be an influential construct within the school context, with previous studies indicating that it longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
 ---
 ### Purpose of the citation
+- To 
 ---
 ### the research has been cited by...
 
@@ -78,7 +78,7 @@ Cui Tianxiang (崔天祥)
 ### the research has been cited by...
 
 - Younas et al., 2021. What Makes Women Social Cynics? An Exploratory Study. *Journal of Professional & Applied Psychology*.
-  - Implications: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
+  - Introduction: A  study  further  argued that  it negatively affectattitudes  towards codes  of  ethics  as  well  as  religiosity  in students   (Putranta,   2020)   while   another concluded   that   higher   levels   of   social cynicism  predicted  lower  levels  of  school belonging  in  university  students (Li  et  al., 2020).
 
 ---
 ### Purpose of the citation

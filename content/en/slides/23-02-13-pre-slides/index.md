@@ -23,7 +23,7 @@ Cui Tianxiang (崔天祥)
 
 ---
 
-### Li et al., 2020
+### The chosen research article
 
 - Li, Y., **Tong, K. K.**, Tao, V. Y., Zhang, M. X., & Wu, A. M. (2020). Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. *Applied Psychology: Health and Well‐Being*, *12*(3), 749-769. https://doi.org/10.1111/aphw.12205
 

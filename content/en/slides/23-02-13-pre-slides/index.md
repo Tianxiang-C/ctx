@@ -16,7 +16,7 @@ slides:
 ### A Summary on the contents and citations of Li et al. (2020)
 
 
-Cui Tianxiang (崔天祥)
+Cui Tianxiang
 
 Supervisor: Tong Kwok Kit
 

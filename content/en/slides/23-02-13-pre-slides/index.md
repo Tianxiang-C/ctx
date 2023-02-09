@@ -49,7 +49,7 @@ Cui Tianxiang (崔天祥)
 ### Chan & Tam, 2021
 - Purpose of the citation
   - To emphasize the stability of social axioms by nature, and changing them take effort and time
-- the relative impact
+- The relative impact
   - Contributed to evidence for the relative stability of social axioms
 ---
 ### the research has been cited by...
@@ -57,8 +57,11 @@ Cui Tianxiang (崔天祥)
 - Dixson & Gentzis, 2021. To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
   - Introduction: school belonging has been found to be an influential construct within the school context, with previous studies indicating that it longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
 ---
-### Purpose of the citation
-- To 
+### Dixson & Gentzis, 2021
+- Purpose of the citation
+  - To claim that school belonging is an influential construct within the school context (e.g., associated with student's well-being)
+- The relative impact
+  - Contributed to evidence for the significant relationship between school belonging and well-being (i.e., flourishing)
 ---
 ### the research has been cited by...
 

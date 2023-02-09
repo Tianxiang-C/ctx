@@ -25,7 +25,10 @@ Cui Tianxiang (崔天祥)
 
 ### Li et al., 2020
 
-- Li, Y., **Tong, K. K.** et al., 2020. Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. *Applied Psychology: Health and Well‐Being*.
+- Li, Y., **Tong, K. K.**, Tao, V. Y., Zhang, M. X., & Wu, A. M. (2020). Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. *Applied Psychology: Health and Well‐Being*, *12*(3), 749-769. https://doi.org/10.1111/aphw.12205
+
+---
+
 ### What is it about?
 
 - To investigate temporal stability of social axioms (generalized social beliefs)
@@ -34,9 +37,6 @@ Cui Tianxiang (崔天祥)
 
 ---
 
-### Li et al., 2020
-
-- Li, Y., **Tong, K. K.** et al., 2020. Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. *Applied Psychology: Health and Well‐Being*.
 ### What are its main claims or contributions?
 
 - All social axioms are relatively stable across time. Social cynicism, reward for applications, and school belonging are the most salient predictors for flourishing among Chinese university students.

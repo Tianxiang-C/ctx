@@ -46,9 +46,9 @@ Cui Tianxiang (崔天祥)
 - Chan & Tam, 2021. Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
   - Implication: Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
 ---
-#### Purpose of the citation
+## Purpose of the citation
 - To emphasize the stability of social axioms by nature, and changing them take effort and time
-#### the relative impact
+## the relative impact
 - Contributed to evidence for the relative stability of social axioms
 ---
 ### the research has been cited by...

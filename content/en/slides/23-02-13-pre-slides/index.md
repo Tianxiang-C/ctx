@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-### A Summary on the contents and citations of Li et al., 2020
+### A Summary on the contents and citations of Li et al. (2020)
 
 
 Cui Tianxiang (崔天祥)
@@ -55,7 +55,7 @@ Cui Tianxiang (崔天祥)
 ### the research has been cited by...
 
 - Dixson & Gentzis, 2021. To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
-  - Introduction: school belonging has been found to be an influential construct within the school context, with previous studies indicating that it longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
+  - Introduction: school belonging...longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
 ---
 ### Dixson & Gentzis, 2021
 - Purpose of the citation
@@ -66,28 +66,42 @@ Cui Tianxiang (崔天祥)
 ### the research has been cited by...
 
 - Luna-Sánchez et al., 2022. Social Axioms Mediate Gender Differences in Gender Ideologies Among Guatemalan University Students. *Journal of Cross-Cultural Psychology*.
-  - Implications: Both comprise a factor named “nastiness” and are associated with social dominance, proneness to aggression, and less flourishing (Li et al., 2020; Stankov, 2016).
+  - Implications: social justice objective can be furthered by reducing cynicism and fate control in society.Both...are associated with...less flourishing (Li et al., 2020).
 
 ---
-### Purpose of the citation
+### Luna-Sánchez et al., 2022
+- Purpose of the citation
+  - To emphasize the importance of reducing cynicism and fate control for more flourishing
+- The relative impact
+  - Contributed to evidence for the significant relationship between social axioms and flourishing
 ---
 ### the research has been cited by...
 
 - Yao et al., 2022. Self-support and loneliness among Chinese primary school students: a moderated mediation model. *Frontiers in Psychology*.
-  - Implications: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
+  - Discussion: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
 
 ---
-### Purpose of the citation
+### Yao et al., 2022
+- Purpose of the citation
+  - Doubtful. Didn't find relevant conclusions
+
 ---
 ### the research has been cited by...
 
 - Younas et al., 2021. What Makes Women Social Cynics? An Exploratory Study. *Journal of Professional & Applied Psychology*.
-  - Introduction: A  study  further  argued that  it negatively affectattitudes  towards codes  of  ethics  as  well  as  religiosity  in students   (Putranta,   2020)   while   another concluded   that   higher   levels   of   social cynicism  predicted  lower  levels  of  school belonging  in  university  students (Li  et  al., 2020).
+  - Introduction: higher levels of social cynicism predicted lower levels of school belonging in university students (Li et al., 2020).
 
 ---
-### Purpose of the citation
+### Younas et al., 2021
+- Purpose of the citation
+  - To illustrate the negative effects of cynicism on students
+- The relative impact
+  - Contributed to evidence for the significant relationship between social axioms and school belonging
 
+---
+### a brief summary
 
+Li et al. (2020) invetigated several research questions (i.e., the stability of social axioms, and the relationship between social axioms, school belonging, and flourishing), and the conclusions it draw have been cited for different purposes in the following articles.
 
 ---
 ### Thank you for your listening!

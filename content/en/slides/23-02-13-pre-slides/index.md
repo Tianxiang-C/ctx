@@ -84,7 +84,7 @@ Supervisor: Tong Kwok Kit
 ---
 ### Yao et al. (2022)
 - Purpose of the citation
-  - Doubtful. Didn't find relevant conclusions
+  - Doubtful. Didn't find relevant conclusions or statements
 
 ---
 ### the research has been cited by...

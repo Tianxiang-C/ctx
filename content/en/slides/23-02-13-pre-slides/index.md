@@ -67,7 +67,7 @@ Supervisor: Tong Kwok Kit, Department of Psychology
   - SSCI-Q3: Psychology, Educational, 37/61
 ---
 ### Dixson & Gentzis (2021)
-- Introduction: school belonging...longitudinally predicts...overall student well-being (Li et al., 2020).
+- Introduction: school belonging...predicts...overall student well-being (Li et al., 2020).
 - Purpose of the citation
   - To claim that school belonging is an influential construct within the school context (e.g., associated with student's well-being)
 - The relative impact

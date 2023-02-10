@@ -53,7 +53,7 @@ Supervisor: Tong Kwok Kit, Department of Psychology
   
 ---
 ### Chan & Tam (2021)
-- Implication: Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
+- Implication: social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
 - Purpose of the citation
   - To emphasize the stability of social axioms by nature, and changing them take effort and time
 - The relative impact
@@ -62,9 +62,12 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 ### the research has been cited by...
 
 - Dixson & Gentzis (2021). To Hope and Belong in Adolescence: A Potential Pathway to Increased Academic Engagement for African American Males. *School Psychology Review*.
-  - Introduction: school belonging...longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
+- *School Psychology Review*
+  - SCI IF (2021): 2.136, SCI IF(5): 3.635
+  - SSCI-Q3: Psychology, Educational, 37/61
 ---
 ### Dixson & Gentzis (2021)
+- Introduction: school belonging...longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
 - Purpose of the citation
   - To claim that school belonging is an influential construct within the school context (e.g., associated with student's well-being)
 - The relative impact
@@ -73,10 +76,12 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 ### the research has been cited by...
 
 - Luna-Sánchez et al. (2022). Social Axioms Mediate Gender Differences in Gender Ideologies Among Guatemalan University Students. *Journal of Cross-Cultural Psychology*.
-  - Implications: social justice objective can be furthered by reducing cynicism and fate control in society.Both...are associated with...less flourishing (Li et al., 2020).
-
+- *Journal of Cross-Cultural Psychology*
+  - SCI IF (2021): 2.577, SCI IF(5): 3.506
+  - SSCI-Q3: Psychology, Social, 44/66  
 ---
 ### Luna-Sánchez et al. (2022)
+- Implications: social justice objective can be furthered by reducing cynicism and fate control in society.Both...are associated with...less flourishing (Li et al., 2020).
 - Purpose of the citation
   - To emphasize the importance of reducing cynicism and fate control for more flourishing
 - The relative impact
@@ -85,10 +90,13 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 ### the research has been cited by...
 
 - Yao et al. (2022). Self-support and loneliness among Chinese primary school students: a moderated mediation model. *Frontiers in Psychology*.
-  - Discussion: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
+- *Frontiers in Psychology*
+  - SCI IF (2021): 4.232, SCI IF(5): 4.426
+  - SSCI-Q3: Psychology, Multidisciplinary, 35/148 
 
 ---
 ### Yao et al. (2022)
+- Discussion: When a student receiving recognition, support, and encouragement at school and actively participating in campus activities, the student will generates a sense of belonging (Li et al., 2020).
 - Purpose of the citation
   - Doubtful. Didn't find relevant conclusions or statements
 

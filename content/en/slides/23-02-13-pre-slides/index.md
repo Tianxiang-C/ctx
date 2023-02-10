@@ -27,7 +27,9 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 ### The chosen research article
 
 - Li, Y., **Tong, K. K.**, Tao, V. Y., Zhang, M. X., & Wu, A. M. (2020). Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. ***Applied Psychology: Health and Well‐Being***, *12*(3), 749-769. https://doi.org/10.1111/aphw.12205
-- *Applied Psychology: Health and Well‐Being*: SCI IF (2021): 7.521, SCI IF(5): 6.580, SSCI-Q1: Psychology, Applied
+- *Applied Psychology: Health and Well‐Being*
+  - SCI IF (2021): 7.521, SCI IF(5): 6.580
+  - SSCI-Q1: Psychology, Applied
 ---
 
 ### What is it about?

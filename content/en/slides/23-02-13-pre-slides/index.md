@@ -26,10 +26,10 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 
 ### The chosen research article
 
-- Li, Y., **Tong, K. K.**, Tao, V. Y., Zhang, M. X., & Wu, A. M. (2020). Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. ***Applied Psychology: Health and Well‐Being***, *12*(3), 749-769. https://doi.org/10.1111/aphw.12205
+- Li, Y., **Tong, K. K.**, Tao, V. Y., Zhang, M. X., & Wu, A. M. (2020). Testing the associations among social axioms, school belonging, and flourishing in university students: a two‐year longitudinal study. *Applied Psychology: Health and Well‐Being*, *12*(3), 749-769. https://doi.org/10.1111/aphw.12205
 - *Applied Psychology: Health and Well‐Being*
   - SCI IF (2021): 7.521, SCI IF(5): 6.580
-  - SSCI-Q1: Psychology, Applied
+  - SSCI-Q1: Psychology, Applied, 10/112
 ---
 
 ### What is it about?
@@ -47,9 +47,13 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 ---
 ### the research has been cited by...
 - Chan & Tam (2021). Do people's assumptions about the social world matter? The effects of social axioms on environmental attitude and efficacy beliefs. *Journal of Environmental Psychology*.
-  - Implication: Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
+- *Journal of Environmental Psychology*
+  - SCI IF (2021): 7.649, SCI IF(5): 8.646
+  - SSCI-Q1: Psychology, Multidisciplinary, 21/211
+  
 ---
 ### Chan & Tam (2021)
+- Implication: Longitudinal studies have shown that social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
 - Purpose of the citation
   - To emphasize the stability of social axioms by nature, and changing them take effort and time
 - The relative impact

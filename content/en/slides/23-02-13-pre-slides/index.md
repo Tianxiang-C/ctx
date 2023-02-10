@@ -36,7 +36,7 @@ Department of Psychology
 
 - To investigate temporal stability of social axioms (generalized social beliefs)
 - To test the prospective effects of social axioms on students' flourishing
-- To examine the mediating effect of perceived sense of belonging on the above relationship
+- To examine the mediating effect of school belonging on the above relationship
 
 ---
 

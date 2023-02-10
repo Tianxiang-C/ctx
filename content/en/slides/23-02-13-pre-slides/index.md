@@ -67,7 +67,7 @@ Supervisor: Tong Kwok Kit, Department of Psychology
   - SSCI-Q3: Psychology, Educational, 37/61
 ---
 ### Dixson & Gentzis (2021)
-- Introduction: school belonging...longitudinally predicts...overall student well-being (Li, Tong, et al., 2020).
+- Introduction: school belonging...longitudinally predicts...overall student well-being (Li et al., 2020).
 - Purpose of the citation
   - To claim that school belonging is an influential construct within the school context (e.g., associated with student's well-being)
 - The relative impact
@@ -81,7 +81,7 @@ Supervisor: Tong Kwok Kit, Department of Psychology
   - SSCI-Q3: Psychology, Social, 44/66  
 ---
 ### Luna-Sánchez et al. (2022)
-- Implications: social justice objective can be furthered by reducing cynicism and fate control in society.Both...are associated with...less flourishing (Li et al., 2020).
+- Implications: social justice objective can be furthered by reducing cynicism and fate control in society. Both...are associated with...less flourishing (Li et al., 2020).
 - Purpose of the citation
   - To emphasize the importance of reducing cynicism and fate control for more flourishing
 - The relative impact

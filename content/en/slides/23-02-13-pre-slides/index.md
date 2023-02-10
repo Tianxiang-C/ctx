@@ -40,7 +40,7 @@ Department of Psychology
 
 ---
 
-### What are its main contributions?
+### What are its main conclusions?
 
 - All social axioms are relatively stable across time. Social cynicism, reward for applications, and school belonging are the most salient predictors for flourishing among Chinese university students.
 

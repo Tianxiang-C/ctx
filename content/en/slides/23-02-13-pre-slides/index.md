@@ -55,7 +55,7 @@ Supervisor: Tong Kwok Kit, Department of Psychology
 ### Chan & Tam (2021)
 - Implication: social axioms exhibited a moderate to strong stability over a one-year period (Li, Tong, Tao, Zhang, & Wu, 2020).
 - Purpose of the citation
-  - To emphasize the stability of social axioms by nature, and changing them take effort and time
+  - To emphasize the stability of social axioms, and changing them takes effort and time
 - The relative impact
   - Contributed to evidence for the relative stability of social axioms
 ---

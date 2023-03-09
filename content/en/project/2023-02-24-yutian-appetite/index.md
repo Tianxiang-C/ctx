@@ -7,7 +7,6 @@ authors:
   - WANG Qingyang
   - YU Yiman
   - HE Jinbo
-
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
@@ -15,7 +14,6 @@ author_notes:
   -
   -
   - 'Corresponding author'
-
 date: '2023-02-24T00:00:00Z'
 doi: '10.1016/j.appet.2023.106512'
 
@@ -42,7 +40,7 @@ The current study explored the relationships between retrospective parenting sty
 summary: 
 
 tags:
-  - Journal articles
+  - Journal article
 categories:
   - parenting style
   - food parenting

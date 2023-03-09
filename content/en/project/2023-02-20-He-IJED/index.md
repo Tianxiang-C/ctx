@@ -1,8 +1,8 @@
 ---
 title: 'Validation of the muscularity-oriented eating test in adult women in China'
 authors:
+  - HE Jinbo
   - admin
-  - CUI Tianxiang
   - Wesley R. BARNHART
   - CUI Shuqi
   - XU Yinuo
@@ -54,6 +54,8 @@ Discussion: The sound psychometric structure of the MOET was supported in Chines
 summary: 
 
 tags:
+  - Journal article
+categories:
   - Chinese
   - muscularity-oriented disordered eating
   - psychometric properties

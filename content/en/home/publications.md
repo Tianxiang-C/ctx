@@ -32,7 +32,7 @@ content:
       tag: Journal article
     - name: Conference papers
       tag: Conference paper   
-count: 5
+  count: 5
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

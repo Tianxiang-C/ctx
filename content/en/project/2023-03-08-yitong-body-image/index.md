@@ -5,8 +5,8 @@ authors:
   - LU Chen
   - HUANG Zizhen
   - Wesley R. BARNHART
-  - CUI Tianxiang
   - admin
+  - HE Jinbo
 
 author_notes:
   -

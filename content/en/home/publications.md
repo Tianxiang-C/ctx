@@ -17,7 +17,7 @@ content:
   page_type: project
   
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 1
+  filter_default: 0
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -33,7 +33,7 @@ content:
       tag: Journal article
     - name: Conference papers
       tag: Conference paper   
-  count: 3
+  count: 5
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

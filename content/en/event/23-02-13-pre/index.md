@@ -38,7 +38,7 @@ image:
 #    url: 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://tianxiang-c.github.io/SSGC8807/'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
@@ -46,7 +46,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides: 23-02-13-pre-slides
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

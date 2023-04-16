@@ -19,7 +19,7 @@ date_end: '2023-02-13T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-01-13T13:30:00Z'
+publishDate: '2023-02-13T13:30:00Z'
 
 authors: []
 tags: []

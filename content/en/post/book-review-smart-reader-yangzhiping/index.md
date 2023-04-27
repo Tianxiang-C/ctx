@@ -1,6 +1,7 @@
 ---
 title: 《聪明的阅读者》书评
 
+summary: “世界何窄，方册何宽”
 
 # Link this post with a project
 projects: []

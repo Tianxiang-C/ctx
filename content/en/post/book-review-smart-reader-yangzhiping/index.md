@@ -17,9 +17,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-
-authors:
-  - admin
 ---
 
 <!--more-->

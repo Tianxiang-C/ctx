@@ -42,7 +42,7 @@ summary:
 tags:
   - Journal article
 categories:
-  - 
+  - weight bias internalization
 
 
 featured: false

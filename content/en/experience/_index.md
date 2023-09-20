@@ -16,7 +16,7 @@ toc: true
   - Helped review and revise undergraduates' manuscripts and advisors' Research Grant Application Forms.
   - Translated documents (e.g., scale items localization).
   - Participated in scale development (discussed semantic meanings of items with advisor and lab members; collected data for primary analysis).
-  - Responsible for website maintenance (see my GitHub repo for details: https://github.com/Tianxiang-C/SCI-Cream)
+  - Have been responsible for website maintenance (see my GitHub repo for details: https://github.com/Tianxiang-C/SCI-Cream)
 
 ## **CUHKSZ (Part-Time)**
 

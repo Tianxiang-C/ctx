@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: Mandarin (native), English (IELTS 7.5), Cantonese (beginner)
+- description: Mandarin (native), English (fluent), Cantonese (intermediate)
   icon: language
   icon_pack: fas
   name: Language

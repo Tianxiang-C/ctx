@@ -14,8 +14,8 @@ toc: true
 # Language
 
 - Mandarin (native), 
-- English (IELTS 7.5), 
-- Cantonese (beginner)
+- English (fluent), 
+- Cantonese (intermediate)
   
 # Statistics
 

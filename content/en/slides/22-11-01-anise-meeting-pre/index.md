@@ -34,7 +34,9 @@ CUI Tianxiang
 ---
 ### A Brief Intro
 
-"To perform a meta-analysis we compute an effect size and variance for each study, and then compute a weighted mean of these effect sizes." ([Borenstein et al., 2009](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386))
+> To perform a meta-analysis we compute an effect size and variance for each study, and then compute a weighted mean of these effect sizes.
+> 
+> — ([Borenstein et al., 2009](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386))
 
 ---
 
